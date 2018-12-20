@@ -8,9 +8,9 @@ StopHotkey=123
 StopHotkeyMod=0
 RunOnce=1
 EnableWindow=
-MacroID=c9ffd990-4fcc-4b0e-8655-820a7d351e86
+MacroID=c8b22188-1202-4742-9e45-bb53df8cb2dd
 Description=主程后台版
-Enable=1
+Enable=0
 AutoRun=0
 [Repeat]
 Type=0
