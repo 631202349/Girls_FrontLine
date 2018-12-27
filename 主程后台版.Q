@@ -4,13 +4,13 @@ BeginHotkey=121
 BeginHotkeyMod=0
 PauseHotkey=120
 PauseHotkeyMod=0
-StopHotkey=123
+StopHotkey=119
 StopHotkeyMod=0
 RunOnce=1
 EnableWindow=
 MacroID=c8b22188-1202-4742-9e45-bb53df8cb2dd
 Description=主程后台版
-Enable=0
+Enable=1
 AutoRun=0
 [Repeat]
 Type=0
@@ -27,7 +27,7 @@ UEsDBBQAAgAIAEw/CkFpA+Qdl5wLAACQDAAGABEAZG0uZGxsVVQNAAcuvyRQ5QoaXKY5UFDs/XlUE8kf
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -51,28 +51,32 @@ hwnd2 = dm.FindWindow("", "MuMu模拟器")
 TracePrint hwnd
 TracePrint hwnd2
 
+/*
+hwnd = Plugin.Window.MousePoint()
+hwnd2 = Plugin.Window.FindEx(hwnd, 0, "Qt5QWindowIcon", "少女前线 - MuMu模拟器")
+ */
+/*
 //绑定句柄
 dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
 
 TracePrint dm_ret
 TracePrint dm.GetLastError()
-
+*/
 
 //战斗相关
 Dimenv Resupply
 Dimenv ChapterSelect
 Dimenv Scaling
 DimEnv Recycle
-Dimenv RepairTimes, Rounds, BattleTimes, RestartTimes
+Dimenv RepairTimes, Rounds, CompleteTimes, RestartTimes
 
 Rounds = 0
 RepairTimes = 0
-BattleTimes = 0
+CompleteTimes = 0
 RestartTimes = 0
 Resupply = False
 StealBattery = False
 Recycle = True
-Form1.CheckBox1.Value = 0
 
 //偷电池
 Dimenv StealBattery
@@ -92,10 +96,10 @@ StartTime = Now
 //************************************************开始进程************************************************
 
 BeginThread 变量监听
+
 BeginThread 闪退重进
-BeginThread 卡bug强退
-BeginThread 再派遣
-BeginThread 关闭成就弹窗
+
+BeginThread 再派遣和关闭成就弹窗
 
 Rem Restart
 
@@ -104,9 +108,18 @@ ChapterSelect = True
 
 ID1 = BeginThread(main)
 
+/*
 Sub OnScriptExit()
 
 dm_ret = dm.UnBindWindow() 
+
+End Sub
+
+*/
+Sub OnThreadExit()
+Set dm = CreateObject("dm.dmsoft")
+dm_ret = dm.UnBindWindow()
+TracePrint dm_ret
 
 End Sub
 
@@ -121,6 +134,7 @@ End Sub
 
 Sub main
 
+BeginThread 卡bug强退
 
 //加载大漠插件
 Set dm = CreateObject("dm.dmsoft")
@@ -129,18 +143,17 @@ Do
 i = 0
 //绑定句柄
 dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-If dm_ret = 1 Then 	
-i = 1
-Else 
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-Delay 500
-End If
-Loop While i = 0
-
 TracePrint dm_ret
 TracePrint dm.GetLastError()
-
-Delay 2000
+If dm_ret = 1 Then 	
+i = 1
+Delay 1000
+Else 
+dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
+Delay 1000
+End If
+Delay 1000
+Loop While i = 0
 
 //TimeMachine
 MyHour = Hour(Now)
@@ -170,9 +183,9 @@ Call 刷图
 //6点
 
 Call 偷电池
+
 Call 打模拟
 Rem Morning
-
 Call 刷图   
 
 //12点
@@ -248,7 +261,7 @@ Form1.Label2.Caption = "Rounds : " & Rounds
 
 Form1.Label3.Caption = runtime(StartTime)
 
-Form1.Label4.Caption = "BattleTimes : " & BattleTimes
+Form1.Label4.Caption = "CompleteTimes : " & CompleteTimes
 
 Form1.Label5.Caption = "RestartTimes : " & RestartTimes
 
@@ -290,37 +303,44 @@ End Function
 
 Sub 卡bug强退
 
+Do
+
+Dim a, b
+
+a = CompleteTimes
+
+TracePrint a
+
+Delay 900000
+
+b = CompleteTimes
+
+TracePrint b
+
+If a = b Then 
+
+StopThread(ID1)
+
 //加载大漠插件
 Set dm = CreateObject("dm.dmsoft")
 
 Do
 i = 0
 //绑定句柄
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-If dm_ret = 1 Then 	
-i = 1
-Else 
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-Delay 500
-End If
-Loop While i = 0
-
+dm_ret = dm.BindWindow(hwnd2, "dx2", "dx", "dx", 0)
 TracePrint dm_ret
 TracePrint dm.GetLastError()
+If dm_ret = 1 Then 	
+i = 1
+Delay 1000
+Else 
+dm_ret = dm.BindWindow(hwnd2, "dx2", "dx", "dx", 0)
+Delay 1000
+End If
+Delay 1000
+Loop While i = 0
 
-Delay 2000
-
-Do
-
-Dim a, b
-
-a = BattleTimes
-
-Delay 1200000
-
-b = BattleTimes
-
-If a = b Then 
+Delay 1000
 
 dm.MoveTo 400, 15
 dm.LeftClick
@@ -331,11 +351,14 @@ Loop
 
 End Sub
 
+
 //******************************闪退重进******************************
 //******************************闪退重进******************************
 //******************************闪退重进******************************
 
 Sub 闪退重进
+
+Delay 60000
 
 //加载大漠插件
 Set dm = CreateObject("dm.dmsoft")
@@ -344,18 +367,20 @@ Do
 i = 0
 //绑定句柄
 dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-If dm_ret = 1 Then 	
-i = 1
-Else 
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-Delay 500
-End If
-Loop While i = 0
-
 TracePrint dm_ret
 TracePrint dm.GetLastError()
+If dm_ret = 1 Then 
+TracePrint dm_ret
+i = 1
+Delay 1000
+Else 
+dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
+Delay 1000
+End If
+Delay 1000
+Loop While i = 0
 
-Delay 2000
+Delay 1000
 
 Do
 //020202为偏色，0为寻找方向可以自由设置
@@ -372,9 +397,39 @@ Form1.ListBox1.AddItem Now
 
 dm.MoveTo 160, 130
 dm.LeftClick
-Delay 3000
+Delay 9000
+/*
+Do
+i = 0
+//解绑句柄
+dm_ret = dm.UnBindWindow() 
+If dm_ret = 1 Then 	
+i = 1
+Else 
+dm_ret = dm.UnBindWindow() 
+Delay 500
+End If
+Delay 500
+Loop While i = 0
 
+TracePrint dm_ret
+TracePrint dm.GetLastError()
+*/
+Do
+i = 0
+//绑定句柄
+dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
+If dm_ret = 1 Then 	
+i = 1
+Else 
+dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
+Delay 500
+End If
+Delay 500
+Loop While i = 0
 
+TracePrint dm_ret
+TracePrint dm.GetLastError()
 
 Do
 i = 0
@@ -382,22 +437,29 @@ i = 0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进入游戏.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
-End If
-Loop While i = 0
-
-Delay 1500
-dm.MoveTo 195, 350
+Else 
+dm.LeftUp 
+dm.MoveTo 160, 130
 dm.LeftClick
 Delay 9000
 
-Do
-i=0
-//020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
 End If
+Delay 500
 Loop While i = 0
+
+
+dm.MoveTo 165, 340
+dm.LeftClick
+Delay 12000
+
+
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\关闭.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo 515, 405
+dm.LeftClick
+End If
+Delay 500
 
 BeginThread 闪退重进
 
@@ -411,6 +473,16 @@ End Sub
 //******************重进收尾****************
 
 Sub 重进收尾
+
+Do
+i=0
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
 
 //选择战斗,net
 dm.MoveTo 680, 360
@@ -433,6 +505,7 @@ dm.LeftClick
 Delay 4500
 End If
 End If
+Delay 500
 Loop While i = 0
 
 //如果是81n闪退 
@@ -441,7 +514,7 @@ If Form1.OptionBox1.Value = 1 Then
 dm.MoveTo 205, 110
 For 3
 dm.WheelDown
-Delay 1500
+Delay 500
 Next
 Delay 1500
 dm.MoveTo 205,230
@@ -487,6 +560,7 @@ dm.MoveTo 195, 100
 dm.LeftClick
 Delay 1500
 End If
+Delay 500
 Loop While i = 0
 //选择0-2
 dm.MoveTo 580, 295
@@ -517,12 +591,6 @@ Delay 3000
 dm.MoveTo 65, 30
 dm.LeftClick
 
-If Form1.OptionBox2.Value = 1 Then
-Call 快速修复
-End If
-
-Call 拆解
-
 Resupply = True
 
 Goto Restart
@@ -530,12 +598,14 @@ Goto Restart
 End Sub
 
 
-//******************************再派遣******************************
-//******************************再派遣******************************
-//******************************再派遣******************************
+//******************************再派遣和关闭成就弹窗******************************
+//******************************再派遣和关闭成就弹窗******************************
+//******************************再派遣和关闭成就弹窗******************************
 
 
-Sub 再派遣
+Sub 再派遣和关闭成就弹窗
+
+Delay 30000
 
 //加载大漠插件
 Set dm = CreateObject("dm.dmsoft")
@@ -544,18 +614,19 @@ Do
 i = 0
 //绑定句柄
 dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-If dm_ret = 1 Then 	
-i = 1
-Else 
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-Delay 500
-End If
-Loop While i = 0
-
 TracePrint dm_ret
 TracePrint dm.GetLastError()
+If dm_ret = 1 Then 	
+i = 1
+Delay 1000
+Else 
+dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
+Delay 1000
+End If
+Delay 1000
+Loop While i = 0
 
-Delay 2000
+Delay 1000
 
 Do
 //后勤回归
@@ -566,6 +637,9 @@ dm.MoveTo intX, intY
 dm.LeftClick
 Delay 1500
 End If
+
+Delay 500
+
 //再派遣确定
 //020202为偏色，0为寻找方向可以自由设置
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\再派遣确定.bmp","020202",0.9,0,intX,intY)
@@ -574,64 +648,28 @@ dm.MoveTo intX, intY
 dm.LeftClick
 Delay 1500
 End If
-/*
-//确认自律回归
-//020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\胜利.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-dm.MoveTo intX, intY
-dm.LeftClick
-Delay 1500
-Do
-i = 0
-//020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\再派遣确定.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-Else 
-dm.LeftClick
-Delay 1000
-End If
-Loop While i = 0
-End If
-*/
-Loop
-End Sub
 
-//******************************关闭******************************（关闭成就弹窗）
-
-Sub 关闭成就弹窗
-
-//加载大漠插件
-Set dm = CreateObject("dm.dmsoft")
-
-Do
-i = 0
-//绑定句柄
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-If dm_ret = 1 Then 	
-i = 1
-Else 
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
 Delay 500
-End If
-Loop While i = 0
 
-TracePrint dm_ret
-TracePrint dm.GetLastError()
-
-Delay 2000
-
-Do
 //020202为偏色，0为寻找方向可以自由设置
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\关闭成就.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 dm.MoveTo 515, 405
 dm.LeftClick
 End If
-Delay 1000
+
+Delay 500
+/*
+dm_ret = dm.FindPic(0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\满仓.bmp", "020202", 0.9, 0, intX, intY)
+If intX > 0 And intY > 0 Then 
+MessageBox "快去强化"
+End If
+
+Delay 500
+*/
 Loop
 End Sub
+
 
 
 //****************************************************共用子程序***********共用子程序***********共用子程序*******************************************************************
@@ -663,6 +701,7 @@ dm.LeftClick
 Delay 4500
 End If
 End If
+Delay 500
 Loop While i=0
 
 //回收拆解
@@ -675,6 +714,20 @@ If Form1.OptionBox1.Value = 1 Then
 dm.MoveTo 430, 160
 dm.LeftClick
 Delay 1500
+
+//确认是否有的拆
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\没得休.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo intX, intY
+dm.LeftClick
+Delay 1500
+dm.MoveTo 52, 41
+dm.LeftClick
+Delay 3000
+Goto backbase
+End If
+
 //智能选择
 dm.MoveTo 930, 495
 dm.LeftClick
@@ -692,6 +745,20 @@ Delay 3000
 dm.MoveTo 430, 160
 dm.LeftClick
 Delay 1500
+
+//确认是否有的拆
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\没得休.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo intX, intY
+dm.LeftClick
+Delay 1500
+dm.MoveTo 52, 41
+dm.LeftClick
+Delay 3000
+Goto backbase
+End If
+
 //倒序
 dm.MoveTo 910, 380
 dm.LeftClick
@@ -729,6 +796,20 @@ ElseIf Form1.OptionBox2.Value = 1 Then
 dm.MoveTo 255, 155
 dm.LeftClick
 Delay 1500
+
+//确认是否有的拆
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\没得休.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo intX, intY
+dm.LeftClick
+Delay 1500
+dm.MoveTo 52, 41
+dm.LeftClick
+Delay 3000
+Goto backbase
+End If
+
 //智能选择
 dm.MoveTo 930, 495
 dm.LeftClick
@@ -744,6 +825,20 @@ Delay 3000
 dm.MoveTo 255, 155
 dm.LeftClick
 Delay 1500
+
+//确认是否有的拆
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\没得休.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo intX, intY
+dm.LeftClick
+Delay 1500
+dm.MoveTo 52, 41
+dm.LeftClick
+Delay 3000
+Goto backbase
+End If
+
 //选择  
 dm.MoveTo 105, 175
 dm.LeftClick
@@ -778,6 +873,9 @@ End If
 dm.MoveTo 60, 40
 dm.LeftClick
 Delay 3000
+
+Rem backbase
+
 End Sub
 
 
@@ -809,6 +907,7 @@ dm.LeftClick
 Delay 2000
 End If
 End If
+Delay 500
 Loop While f = 0
 //修复
 Delay 1000
@@ -867,6 +966,7 @@ Delay 500
 dm.LeftClick
 Delay 500
 End If
+Delay 500
 Loop While i = 0
 
 RepairTimes = RepairTimes + 1
@@ -909,6 +1009,7 @@ dm.LeftClick
 Delay 6000
 End If
 End If
+Delay 500
 Loop While i = 0
 End Sub
 
@@ -934,11 +1035,9 @@ For 8
 
 Rounds = Rounds + 1
 
-Call 部署81n
-
 Call 战斗81n
 
-BattleTimes = BattleTimes + 1
+CompleteTimes = CompleteTimes + 1
 
 If Rounds = 8 Then 
 Rounds = 0
@@ -960,6 +1059,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\战斗页面.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 dm.MoveTo 65, 30
 dm.LeftClick	
@@ -1009,18 +1109,22 @@ dm.LeftClick
 Delay 4500
 End If
 End If
+Delay 500
 Loop While i = 0
 
 //仅第一次选章节
 If ChapterSelect = True Then 
 ChapterSelect = False
+
+Rem reEnter81n
+
 //选第八章
 dm.MoveTo 205, 110
 For 3
 dm.WheelDown
-Delay 1000
+Delay 500
 Next
-Delay 1000
+Delay 1500
 dm.MoveTo 205, 230
 dm.LeftClick
 Delay 1500
@@ -1037,8 +1141,6 @@ dm.LeftClick
 Delay 2000
 
 //确认是81n
-Do
-i = 0
 //020202为偏色，0为寻找方向可以自由设置
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\81n.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
@@ -1047,11 +1149,12 @@ Else
 dm.MoveTo 170, 70
 dm.LeftClick
 Delay 1500
-dm.MoveTo 910, 230
-dm.LeftClick
-Delay 2000
+
+Goto reEnter81n
+
 End If
-Loop While i = 0
+
+Delay 500
 
 //进入战斗
 dm.MoveTo 541, 435
@@ -1069,6 +1172,7 @@ dm.MoveTo 970, 25
 dm.LeftClick
 Delay 4500
 End If
+Delay 500
 Loop While i = 0
 
 //确认缩放
@@ -1089,7 +1193,9 @@ End Sub
 //*********************************部署81n*******************************
 //*********************************部署81n*******************************
 
-Sub 部署81n
+Sub 战斗81n
+
+Rem restart81n
 
 //******************进入编成界面**********************
 //选择机场
@@ -1103,6 +1209,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i=0
 
 //选择队伍编成
@@ -1120,6 +1227,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 
 
@@ -1151,6 +1259,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 
 
@@ -1171,6 +1280,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 
 //选阵型预设
@@ -1226,6 +1336,7 @@ dm.MoveTo 910, 490
 dm.LeftClick
 Delay 1000
 End If
+Delay 500
 Loop While i=0
 
 //选返回
@@ -1239,6 +1350,7 @@ dm.MoveTo 85, 50
 dm.LeftClick
 Delay 1000
 End If
+Delay 500
 Loop While i = 0
 
 //skip剧情
@@ -1252,6 +1364,7 @@ dm.MoveTo 970, 25
 dm.LeftClick
 Delay 4500
 End If
+Delay 500
 Loop While i = 0
 
 
@@ -1272,6 +1385,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i=0
 dm.MoveTo 930, 500
 dm.LeftClick
@@ -1287,6 +1401,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i=0
 dm.MoveTo 930, 500
 dm.LeftClick
@@ -1305,6 +1420,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i=0
 dm.MoveTo 930, 500
 dm.LeftClick
@@ -1320,11 +1436,22 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i=0
 dm.MoveTo 930, 500
 dm.LeftClick
 Delay 2000
 End If
+
+Do
+i=0
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i=1
+End If
+Delay 500
+Loop While i = 0
 
 //开始作战,net
 dm.MoveTo 810, 496
@@ -1347,15 +1474,15 @@ Delay 2000
 Else 
 i = 1
 End If
+Delay 500
 Loop While i=0
 
-End Sub
+
 
 //*********************************战斗81n*******************************
 //*********************************战斗81n*******************************
 //*********************************战斗81n*******************************
 
-Sub 战斗81n
 
 //*****************************闪退重进额外补给*********************************
 If Resupply = True Then 
@@ -1379,11 +1506,13 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i=0
 //补给，net
 dm.MoveTo 880, 430
 dm.LeftClick
 Delay 9000
+
 //撤离
 dm.MoveTo 196, 96
 dm.LeftClick
@@ -1395,6 +1524,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 dm.MoveTo 810, 510
 dm.LeftClick
@@ -1402,14 +1532,31 @@ Delay 2000
 dm.MoveTo 595, 395
 dm.LeftClick
 Delay 2000
-//终止作战
-dm.MoveTo 290, 30
+
+//重新作战
+dm.MoveTo 260, 30
 dm.LeftClick
 Delay 1500
-dm.MoveTo 630, 380
+dm.MoveTo 396, 386
 dm.LeftClick
 Delay 3000
-Goto restart
+
+//skip剧情
+Do
+i=0
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\skip.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i=1
+dm.MoveTo 970, 25
+dm.LeftClick
+Delay 4500
+End If
+Delay 500
+Loop While i = 0
+
+Goto restart81n
+
 End If
 
 //************************计划模式************************
@@ -1424,6 +1571,26 @@ Delay 500
 dm.MoveTo 150, 445
 dm.LeftClick
 Delay 500
+
+//确认选中
+Do
+i=0
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\81nsf.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+//选择计划
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 1000
+//选择打手队
+dm.MoveTo 150, 445
+dm.LeftClick
+Delay 1000
+End If
+Delay 500
+Loop While i=0
 
 //选择点1
 dm.MoveTo 235, 350
@@ -1464,6 +1631,7 @@ If intX > 0 And intY > 0 Then
 i = 1
 Delay 1000
 End If
+Delay 500
 Loop While i = 0
 
 //上方机场补给队补给
@@ -1479,6 +1647,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i=0
 //补给，net
 dm.MoveTo 880, 430
@@ -1492,6 +1661,7 @@ If intX > 0 And intY > 0 Then
 i = 1
 Delay 1000
 End If
+Delay 500
 Loop While i = 0
 //撤离
 dm.MoveTo 196, 96
@@ -1504,6 +1674,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 dm.MoveTo 810, 510
 dm.LeftClick
@@ -1531,6 +1702,7 @@ dm.MoveTo 970, 25
 dm.LeftClick
 Delay 4500
 End If
+Delay 500
 Loop While i = 0
 
 End Sub
@@ -1545,18 +1717,16 @@ End Sub
 Sub 刷02
 
 Do
-/*
+
 Call 快速修复
 
 Call 拆解
 
 Call 进02
-*/
+
 For 6
 
 Rounds = Rounds + 1
-
-Call 部署02
 
 Call 战斗02
 
@@ -1564,7 +1734,7 @@ If Rounds = 6 Then
 Rounds = 0
 End If
 
-BattleTimes = BattleTimes + 1
+CompleteTimes = CompleteTimes + 1
 
 Next
 
@@ -1582,6 +1752,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\战斗页面.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 dm.MoveTo 65, 30
 dm.LeftClick	
@@ -1631,23 +1802,25 @@ dm.LeftClick
 Delay 4500
 End If
 End If
+Delay 500
 Loop While i = 0
 
 //仅第一次选章节
 If ChapterSelect = True Then 
 ChapterSelect = False
+
+Rem reEnter02
+
 //选第零章
-Do
-i = 0
-//020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\难度选择.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
+dm.MoveTo 205, 110
+For 3
+dm.WheelUp
+Delay 500
+Next
+Delay 1500
 dm.MoveTo 175, 100
 dm.LeftClick
 Delay 1500
-End If
-Loop While i = 0
 End If
 
 //选择0-2
@@ -1656,21 +1829,20 @@ dm.LeftClick
 Delay 1500
 
 //确认是0-2
-Do
-i = 0
 //020202为偏色，0为寻找方向可以自由设置
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\02.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
-i = 1
 Else 
 dm.MoveTo 190, 75
 dm.LeftClick
 Delay 1000
-dm.MoveTo 580, 295
-dm.LeftClick
-Delay 1500
+
+Goto reEnter02
+
 End If
-Loop While i = 0
+
+Delay 500
+
 
 //进入战斗
 dm.MoveTo 540, 435
@@ -1687,6 +1859,7 @@ i=1
 Else 
 i=0
 End If
+Delay 500
 Loop While i=0
 
 End Sub
@@ -1695,8 +1868,9 @@ End Sub
 //*********************************部署02*******************************
 //*********************************部署02*******************************
 
-Sub 部署02
+Sub 战斗02
 
+Rem restart02
 
 //******************进入编成界面**********************
 //选择指挥部
@@ -1719,6 +1893,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 
 
@@ -1750,6 +1925,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 
 //选妖精
@@ -1774,6 +1950,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 
 //选阵型预设
@@ -1829,6 +2006,7 @@ dm.MoveTo 910, 490
 dm.LeftClick
 Delay 1000
 End If
+Delay 500
 Loop While i=0
 
 //选返回
@@ -1842,6 +2020,7 @@ dm.MoveTo 85, 50
 dm.LeftClick
 Delay 1000
 End If
+Delay 500
 Loop While i = 0
 
 Do
@@ -1851,6 +2030,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp"
 If intX > 0 And intY > 0 Then 
 i=1
 End If
+Delay 500
 Loop While i = 0
 
 Delay 1000
@@ -1872,6 +2052,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp"
 If intX > 0 And intY > 0 Then 
 i=1
 End If
+Delay 500
 Loop While i = 0
 //选择指挥部署打手队
 dm.MoveTo 510, 280
@@ -1896,6 +2077,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp"
 If intX > 0 And intY > 0 Then 
 i=1
 End If
+Delay 500
 Loop While i = 0
 //选机场部署补给队
 dm.MoveTo 75, 280
@@ -1918,17 +2100,18 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp"
 If intX > 0 And intY > 0 Then 
 i=1
 End If
+Delay 500
 Loop While i = 0
 
 Delay 500
 
-End Sub
+
 
 //*********************************战斗02*******************************
 //*********************************战斗02*******************************
 //*********************************战斗02*******************************
 
-Sub 战斗02
+
 
 
 //************************补给************************
@@ -1952,49 +2135,73 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp"
 If intX > 0 And intY > 0 Then 
 i=1
 End If
+Delay 500
 Loop While i = 0
 
 Delay 2000
 
-//***********************闪退重进后需重新补给指挥部打手队***************************
+//***********************闪退重进补给后重开***************************
+
 If Resupply = True Then 
 Resupply = False
-//选择指挥部署打手队
-dm.MoveTo 510, 280
-dm.LeftClick
-Delay 1000
-dm.LeftClick
-Delay 1000
 
-//补给，net
-dm.MoveTo 880, 430
+//撤离
+dm.MoveTo 100, 270
+dm.LeftClick
+Delay 1500
+Do
+i = 0
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+dm.MoveTo 810, 510
+dm.LeftClick
+Delay 2000
+dm.MoveTo 595, 395
 dm.LeftClick
 Delay 2000
 
+//重新作战
+dm.MoveTo 260, 30
+dm.LeftClick
+Delay 1500
+dm.MoveTo 396, 386
+dm.LeftClick
+Delay 3000
+
+//skip剧情
 Do
 i=0
 //020202为偏色，0为寻找方向可以自由设置
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i=1
+dm.MoveTo 970, 25
+dm.LeftClick
+Delay 4500
 End If
+Delay 500
 Loop While i = 0
 
-Delay 2000
+Goto restart02
 
 End If
 
 //************************妖精指令************************
 
 //020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\空指令.bmp","020202", 1,0, intX, intY)
+dm_ret = dm.FindPic( 0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\空指令.bmp","020202", 0.9,0, intX, intY)
 If intX > 0 And intY > 0 Then 
 t = 0
 Else 
 t = 1
 End If
 
-If t = 1 and Form1.CheckBox1.Value = 1 Then 
+If t = 1 Then 
 	
 //选择指挥部部署打手队
 dm.MoveTo 510, 280
@@ -2016,6 +2223,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp"
 If intX > 0 And intY > 0 Then 
 i=1
 End If
+Delay 500
 Loop While i = 0
 
 End If
@@ -2041,7 +2249,7 @@ Delay 1000
 //上划地图
 dm.MoveTo 800, 350
 Delay 200
-For 10
+For 12
 dm.WheelUp
 Delay 500
 Next
@@ -2074,6 +2282,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\行动结束021.b
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 
 Delay 10000
@@ -2088,6 +2297,7 @@ i = 1
 dm.MoveTo 900, 510
 dm.LeftClick
 End If
+Delay 500
 Loop While i = 0
 
 Delay 10000
@@ -2100,6 +2310,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp"
 If intX > 0 And intY > 0 Then 
 i=1
 End If
+Delay 500
 Loop While i = 0
 
 Delay 10000
@@ -2112,19 +2323,20 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp"
 If intX > 0 And intY > 0 Then 
 i=1
 End If
+Delay 500
 Loop While i = 0
 
 //************************妖精指令************************
 
 //020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\空指令.bmp","020202", 1,0, intX, intY)
+dm_ret = dm.FindPic( 0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\空指令.bmp","020202", 0.9,0, intX, intY)
 If intX > 0 And intY > 0 Then 
 t = 0
 Else 
 t = 1
 End If
 
-If t = 1 and Form1.CheckBox1.Value = 1 Then 
+If t = 1 Then 
 
 //选择打手队
 dm.MoveTo 520, 280
@@ -2168,6 +2380,7 @@ dm.MoveTo 520, 280
 dm.LeftClick
 Delay 1000
 End If
+Delay 500
 Loop While i=0
 
 
@@ -2198,6 +2411,7 @@ i = 1
 dm.LeftClick
 Delay 1000
 End If
+Delay 500
 Loop While i = 0
 
 //成果结算
@@ -2211,6 +2425,7 @@ If intX > 0 And intY > 0 Then
 i = 1
 Delay 2000
 End If
+Delay 500
 Loop While i = 0
 
 Delay 2000
@@ -2249,6 +2464,7 @@ dm.MoveTo 590, 295
 dm.LeftClick
 Delay 1500
 End If
+Delay 500
 Loop While i = 0
 
 //进入战斗
@@ -2266,6 +2482,7 @@ i=1
 Else 
 i=0
 End If
+Delay 500
 Loop While i=0
 
 End Sub
@@ -2283,17 +2500,18 @@ Sub 收每日奖励
 Do
 i = 0
 //020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\每日奖励.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic(0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\每日奖励.bmp", "020202", 0.9, 0, intX, intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 
 //重磅热点，系统公告返回
-dm.MoveTo 130, 55
+dm.MoveTo 100, 45
 dm.LeftClick
-Delay 1500
-dm.MoveTo 110, 65
+Delay 3000
+dm.MoveTo 100, 45
 dm.LeftClick
 Delay 3000
 //关闭奖励
@@ -2301,9 +2519,11 @@ dm.MoveTo 525, 405
 dm.LeftClick
 Delay 3000
 //关闭活动窗口
-dm.MoveTo 85, 70
+dm.MoveTo 60, 60
 dm.LeftClick
 Delay 3000
+
+CompleteTimes = CompleteTimes + 1
 
 End Sub
 
@@ -2326,6 +2546,7 @@ If intX > 0 And intY > 0 Then
 i = 1
 Delay 2000
 End If
+Delay 500
 Loop While i = 0
 //选择排序
 dm.MoveTo 780, 130
@@ -2346,6 +2567,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\名片.bmp","02
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 dm.MoveTo 760, 480
 dm.LeftClick
@@ -2358,6 +2580,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\返回宿舍.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 //偷电
 For 12
@@ -2381,6 +2604,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\返回宿舍.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 Next
 //返回宿舍
@@ -2395,6 +2619,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\离开宿舍.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 //离开宿舍
 dm.MoveTo 95, 50
@@ -2408,11 +2633,14 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","02
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 
 StealBattery = True
 
 End If
+
+CompleteTimes = CompleteTimes + 1
 
 End Sub
 
@@ -2434,7 +2662,7 @@ i = 0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
-dm.MoveTo 110, 365
+dm.MoveTo 80, 265
 dm.LeftClick
 Delay 1000
 Else 
@@ -2442,13 +2670,14 @@ dm.MoveTo 680, 360
 dm.LeftClick
 Delay 4500
 End If
+Delay 500
 Loop While i = 0
 
 //周二五日（361）打资料
 MyWeekDay = Weekday(Date)
 If MyWeekDay = 3 or MyWeekDay = 6 or MyWeekDay = 1 Then 
 //选资料（默认中级）
-dm.MoveTo 230, 200
+dm.MoveTo 200, 200
 dm.LeftClick
 Delay 1000
 
@@ -2456,37 +2685,41 @@ Delay 1000
 dm.MoveTo 605, 320
 dm.LeftClick
 Delay 1000
-/*
-//初级
-dm.MoveTo 605, 235
-dm.LeftClick
-Delay 1000
 
-//高级
-dm.MoveTo 605, 410
-dm.LeftClick
-Delay 1000
-*/
 //进入战斗
 dm.MoveTo 720, 450
 dm.LeftClick
 Delay 1000
 //确认
-dm.MoveTo 600, 380
+dm.MoveTo 600, 400
 dm.LeftClick
 Delay 15000
 //等待胜利
 dm.LeftClick
 Delay 9000
 //返回基地
-dm.MoveTo 90, 55
+dm.MoveTo 50, 45
 dm.LeftClick
 Delay 9000
+//读图
+Do
+i=0
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 50, 40
+dm.LeftClick
+Delay 9000
+End If
+Delay 500
+Loop While i = 0
 
 //其他时候打碎片
 Else 
 ///选碎片
-dm.MoveTo 230, 360
+dm.MoveTo 205, 370
 dm.LeftClick
 Delay 1000
 //高级
@@ -2501,6 +2734,7 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\任务选择.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
+Delay 500
 Loop While i = 0
 
 //缩放
@@ -2580,13 +2814,30 @@ If intX > 0 And intY > 0 Then
 i = 1
 Delay 9000
 End If
+Delay 500
 Loop While i = 0
 //返回基地
 dm.MoveTo 100, 70
 dm.LeftClick
 Delay 9000
+//读图
+Do
+i=0
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 50, 40
+dm.LeftClick
+Delay 9000
+End If
+Delay 500
+Loop While i = 0
 
 End If
+
+CompleteTimes = CompleteTimes + 1
 
 End Sub
 
