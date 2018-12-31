@@ -49,12 +49,12 @@ TracePrint dm_ret
 TracePrint dm.GetLastError()
 
 
-
 //等待读图
 Do
 i=0
 //020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回合开始03.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic(0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\回合开始04.bmp", "020202", 0.9, 0, intX, intY)
+TracePrint dm_ret
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -65,52 +65,64 @@ Delay 1000
 Loop While i = 0
 
 Delay 9000
+
+//下划地图
+dm.MoveTo 515, 415
+For 5
+dm.WheelDown
+Delay 500
+Next
 
 //选择计划
 dm.MoveTo 50, 470
 dm.LeftClick
 Delay 500
 //打手
-dm.MoveTo 355, 380
+dm.MoveTo 865, 165
 dm.LeftClick
 Delay 500
 //点1
-dm.MoveTo 510, 460
+dm.MoveTo 725, 155
 dm.LeftClick
 Delay 500
 //点2
-dm.MoveTo 770, 440
-dm.LeftClick
-Delay 500
-//点3
-dm.MoveTo 865, 245
+dm.MoveTo 640, 255
 dm.LeftClick
 Delay 500
 //执行计划
 dm.MoveTo 930, 505
-dm.LeftClick
-Delay 1000
+dm.LeftClick 
 
-Delay 45000
+Delay 30000
 
 dm.MoveTo 900, 510
-dm.LeftClick 
+dm.LeftClick
 
-Delay 9000
-
-//等待读图
+//成果结算
 Do
-i=0
-//020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回合开始04.bmp","020202",0.9,0,intX,intY)
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\结算16.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
-Else 
-dm.MoveTo 529, 259
-dm.LeftClick 
+Else
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\结算16S.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then
+i = 1
+End If
 End If
 Delay 1000
 Loop While i = 0
+Delay 2000
+dm.MoveTo 515, 415
+dm.LeftClick
+Delay 1000
+dm.LeftClick
+Delay 200
+dm.LeftClick
+Delay 200
+dm.LeftClick
+Delay 200
+dm.LeftClick 
 
 /*
 ID1=BeginThread(hahaha)

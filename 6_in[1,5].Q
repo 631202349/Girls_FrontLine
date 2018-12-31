@@ -301,7 +301,7 @@ dm.LeftClick
 Delay 1000
 
 
-Delay 36000
+Delay 48000
 
 dm.MoveTo 900, 510
 dm.LeftClick 
@@ -352,11 +352,11 @@ dm.MoveTo 865, 175
 dm.LeftClick
 Delay 500
 //执行计划
-dm.MoveTo 930, 435
+dm.MoveTo 930, 505
 dm.LeftClick
 Delay 1000
 
-Delay 45000
+Delay 60000
 
 dm.MoveTo 900, 505
 dm.LeftClick 
@@ -406,7 +406,7 @@ Delay 500
 dm.MoveTo 930, 505
 dm.LeftClick 
 
-Delay 30000
+Delay 48000
 
 dm.MoveTo 900, 510
 dm.LeftClick
@@ -648,31 +648,13 @@ dm.MoveTo 930, 505
 dm.LeftClick
 Delay 1000
 
-//等待推图
-Do
-i=0
-//020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\行动结束262.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-End If
-Delay 500
-Loop While i = 0
 
-Delay 3000
+Delay 60000
 
-//结束回合
-Do
-i=0
-//020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\行动结束262.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
+
 dm.MoveTo 900, 510
 dm.LeftClick
-End If
-Delay 500
-Loop While i = 0
+
 
 Delay 9000
 
@@ -825,35 +807,37 @@ Loop While i = 0
 
 Delay 1000
 
-//下划地图
-dm.MoveTo 515, 415
-For 2
-dm.WheelDown
-Delay 500
-Next
 
 //选择计划
 dm.MoveTo 50, 470
 dm.LeftClick
 Delay 500
 //打手
-dm.MoveTo 570, 130
+dm.MoveTo 575, 280
 dm.LeftClick
 Delay 500
 //点1
-dm.MoveTo 450, 140
+dm.MoveTo 450, 295
 dm.LeftClick
 Delay 500
 //点2
-dm.MoveTo 330, 270
+dm.MoveTo 330, 425
 dm.LeftClick
 Delay 500
+
+//下划地图
+dm.MoveTo 515, 415
+For 6
+dm.WheelDown
+Delay 500
+Next
+
 //点3
-dm.MoveTo 305, 420
+dm.MoveTo 305, 265
 dm.LeftClick
 Delay 500
 //点4
-dm.MoveTo 415, 490
+dm.MoveTo 415, 340
 dm.LeftClick
 Delay 500
 //执行计划
@@ -1294,6 +1278,13 @@ Loop While i = 0
 
 Delay 3000
 
+//上划地图
+dm.MoveTo 640, 259
+For 3
+dm.WheelUp
+Delay 500
+Next
+
 //选择计划
 dm.MoveTo 50, 470
 dm.LeftClick
@@ -1417,7 +1408,7 @@ Loop While i = 0
 
 dm.MoveTo 80, 210
 dm.LeftClick
-Delay 1000
+Delay 3000
 dm.MoveTo 425, 335
 dm.LeftClick
 Delay 1000
@@ -1461,7 +1452,7 @@ Loop While i = 0
 
 dm.MoveTo 80, 210
 dm.LeftClick
-Delay 1000
+Delay 3000
 dm.MoveTo 600, 335
 dm.LeftClick
 Delay 1000
