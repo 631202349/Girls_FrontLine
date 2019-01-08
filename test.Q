@@ -49,177 +49,27 @@ TracePrint dm_ret
 TracePrint dm.GetLastError()
 
 
-//等待读图
-Do
-i=0
+
+
+
+
 //020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic(0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\回合开始04.bmp", "020202", 0.9, 0, intX, intY)
-TracePrint dm_ret
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\护盾妖精.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
-i = 1
-Else 
-dm.MoveTo 529, 259
-dm.LeftClick 
+TracePrint intX
 End If
-Delay 1000
-Loop While i = 0
 
-Delay 9000
 
-//下划地图
-dm.MoveTo 515, 415
-For 5
-dm.WheelDown
-Delay 500
-Next
 
-//选择计划
-dm.MoveTo 50, 470
-dm.LeftClick
-Delay 500
-//打手
-dm.MoveTo 865, 165
-dm.LeftClick
-Delay 500
-//点1
-dm.MoveTo 725, 155
-dm.LeftClick
-Delay 500
-//点2
-dm.MoveTo 640, 255
-dm.LeftClick
-Delay 500
-//执行计划
-dm.MoveTo 930, 505
-dm.LeftClick 
 
-Delay 30000
 
-dm.MoveTo 900, 510
-dm.LeftClick
 
-//成果结算
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\结算16.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-Else
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\结算16S.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then
-i = 1
-End If
-End If
-Delay 1000
-Loop While i = 0
-Delay 2000
-dm.MoveTo 515, 415
-dm.LeftClick
-Delay 1000
-dm.LeftClick
-Delay 200
-dm.LeftClick
-Delay 200
-dm.LeftClick
-Delay 200
-dm.LeftClick 
-
-/*
-ID1=BeginThread(hahaha)
-*/
 
 
 Sub OnThreadExit()
+
 Set dm = CreateObject("dm.dmsoft")
 dm_ret = dm.UnBindWindow() 
 
 End Sub
 
-Sub hahaha
-
-BeginThread lalala
-
-//加载大漠插件
-Set dm = CreateObject("dm.dmsoft")
-
-Do
-i = 0
-//绑定句柄
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-TracePrint dm_ret
-TracePrint dm.GetLastError()
-If dm_ret = 1 Then 	
-i = 1
-Delay 1000
-Else 
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-Delay 1000
-End If
-Delay 1000
-Loop While i = 0
-
-
-
-Do
-
-dm.MoveTo 15, 290
-dm.LeftClick 
-
-Delay 1000
-
-dm.MoveTo 605, 290
-dm.LeftClick 
-
-Delay 1000
-
-
-Loop
-
-
-End Sub
-
-
-Sub lalala
-
-Delay 5000
-
-//加载大漠插件
-Set dm = CreateObject("dm.dmsoft")
-
-StopThread (ID1)
-
-/*
-Do
-i = 0
-//解绑句柄
-dm_ret = dm.UnBindWindow() 
-If dm_ret = 1 Then 	
-i = 1
-Else 
-dm_ret = dm.UnBindWindow() 
-Delay 500
-End If
-Delay 500
-Loop While i = 0
-
-TracePrint dm_ret
-TracePrint dm.GetLastError()
-*/
-Do
-i = 0
-//绑定句柄
-dm_ret = dm.BindWindow(hwnd2, "dx2", "dx", "dx", 0)
-TracePrint dm_ret
-TracePrint dm.GetLastError()
-If dm_ret = 1 Then 	
-i = 1
-Else 
-dm_ret = dm.BindWindow(hwnd2, "dx2", "dx", "dx", 0)
-Delay 500
-End If
-Delay 500
-Loop While i = 0
-
-ID1=BeginThread(hahaha)
-
-End Sub
