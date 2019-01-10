@@ -27,7 +27,7 @@ UEsDBBQAAgAIAEw/CkFpA+Qdl5wLAACQDAAGABEAZG0uZGxsVVQNAAcuvyRQ5QoaXKY5UFDs/XlUE8kf
 
 
 [UIPackage]
-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
+UEsDBBQAAgAIAEyQKk4s5cuY1wwAAAi2AAAJABEAVUlQYWNrYWdlVVQNAAfOiDdczog3XM6IN1ztXWl4VOUVfgeIrGUrIIJI2Bcpsu8KJIBQw5aEtWIdYIBIMsEsbFrFonVBqrZq3WrFVkFRK25YRUW0RQQEFLcuFlvt8qN//VfoOXNnyE1I6j3fPczJPOTjeT3zxPnmvd/+vefc797G8NLRI+1ObNvV5UvUSJehMU6eao7zfH+LJJFIbYFG8HDy1KlTqT+fakgZlf5LaELtNpLAbZ1FaEpoTmhGaEH4DqEloRWhtdf0aENoR/guoT2hA6EToSPhfMIFhM6ELoQLCV0J3QjdCRcRsgm9CD0IPQm9CX0JfQj9CAMI/QkDCYMIFxO+R7iEMJgwhDCMMJQwnDCKMIIwOtkfx5IdQxhHmEAYT7iUMCnRt4GJhMmEXEIOYQphGmEq4XLCDMJ0wvcJeYQrCDMJswmzCHMIBYS5hHxCIWE+YR5hAWERYWHyWk7W4/bPRyn9q6D2mIo42TJsgCR1oh6T+q3It3z3RFZ8+8EdxyON6fOmUd7f5lFND4F7aoZIJMWfW8d39u4uSfCm+P3/L5daLi/EFbTw8Wd9C//RL0rO4C+k+l6DGPWpKErISlN7NErwt0vOvUHzNUnaVP9swLmJaaVlJSGGHzj/0BD5IwiXwuYPm156/tDXYcovGLJnJb/rvFM1/zWqtucL2mapuZJXnSiWotjxGlrT/NcS3j4lKH8j3/w3H0UoJ7heQVuH8jf28ecTaxTLaV8RpyvYIObn+b9V8jeD8jfx8RcS/3pa90O0f0Ra/ixf++fS7qOYUOZ4JR0c+M/zlb+KP4faYRlWy/kT++U2gvpvWqP9l4Wsf96fNxPwN4O3h/enJTQovkHmpabG/N/UXueJZWlmQXZBNF6eXRArK1pxlvj77LwqVP7FNPOU0fwTo/+6JJ5/OybHVND+19zX//No7MlHXfX+3zb5e0H5W9Q6/gvoOlZRPchWw840/lMaOCh/Sx//ZNr9r0msAWWEOF2DbBXqROVvDk+XB+Vv5eOfRmWPh5t/xOsfz1cTTpe/mFbflXQNXO9xl/lfzN+6WvtHqf4r6Bq4HnIS7ZBaCar6Rt2pP9V/J1T5vYLwt/Hx5yR+3xt/Qfhq6X+RDkL+tj7+sPNH2P1n2DR7TUVRaTyndH3Y/I6b+EzXL4XU8ysSe1+X3peYf8Tjr52v/80h/vXEXky7cJfU2oG/fQ1+3n9VUrldvDCdHfj9/nLP/+SuINn/xHqGfaNd6vhOyu90Nv1PAxB8/eH1snnys4X+7ABvD8BJQ39mw/NrB+XvCFv92Qm6+rMvPF9/UP7zoa8/+wv4O6O2/V84/dlPwH8BdPUnx1d6C/i7+PizxwyNwzCF3T/wOOaYDMd7XByZ1utvY2N+Df8Dx++6CfpfV1T5HxT0p3j+uxC6+rNPckwH5e8GXf3JsdGBAv6LoKs/+fd6Cfi7w1Z/ZqNKf+Ym6px7QIx6oTzR+hvpkezTQfl74Mz1Lz+hglelRf/29PFb+6+s59+wKax+HvjyqlD5u24rDJW/gHrcBufdL/uS5P2vV7X5J/3+n94+/lmJubeE5r5iZ/8L8w4SjP8+Pv7pxLfW2fvjzb/S8veFX/+y7i2nfzz/ya+hi0P994N//WP9O8y5//rvv6jrLo506N+JgvZnrWKpfwegSv+q+c8cmzDT/WfZQ4aZ8ofVTxr+D76Va6Sg/w+Erf/jYuj6P3gvOVhQ/kHQ939cJuBnX2FKd2r5Py4V8A+Grv+DR+A4Af8l0I2/832mwwX8Q2Crf4f6yj8J3j2uXO8uV9AItsnaf5Lp+knD/zE+OaaC9r9h0PV/TE7246D8w6Hr/+D7zscK+EfA1v/Ba7Wm/2N0ck4Jyj8Ktv6P0T5+C/07Brb6d6yP3zpluv8kL7o0Vhw2/yj3/GHnfy3/R45g/I+Drf9jPGz9HxNQ0/8x3Ln92P/B8dQt8M4v1ZbS4f/IF7Q/a4Ws0/0v/f4P1kqpc40a+jd1Piwo/0So6t/ITHjnz4LyT/LxW/tPFsRiq6dENzjnt75/jf1oHM+pBJxGcTfj+tfwf/B5ySmC/jcZtucPeK1K3Tducf4gF7r+Dz6nOkdQ/1Og6//g87AzBPxTYev/mAbd+P/cZJmC8l8OVf2b6H8FAv7pPv5z3X9inVT0w2j3/Br+D/Yfzhb0vxmw9X/w9VqeP7gC/vXPq/dyaoVoQovIrsHl/uM8+P0PlcRXSrNPETa67f/F/DNRU/+MCNH+VfHfhXV8Jx36Z7mg//N6aal/eKxq6h/egS8RlH8OdPXPD8muEPDPhW78bxG8Z38E5c+H7f6X9wotk58zPf6eH1sTLSorLCqJuZ0fqQ/68VHCLwgvOuS/KGT9WeifQujqn8VklwrG3zzo6p+ryf5AwD8ftvpnAXT1z7LkbwblXwh9/RMT8C+CbvzvSrJRAf9i2O5/ua9OgE5q0I+2Kax+tNA/V8JW/yyBrf65CjX1z8gQ4z+SWM9453pNHd9Jh/5ZK5j/eL9uqX+uhq7+WUO2VFD+KHT1z7Vk1wv4l/r4E/NHiAdYZbp+mFW6LlT++qAfEoh459qkSUP/8u5xlaD/LYOt/mVfjfb9rxL+GHT1D6//FYL6XwFd/cPKpUTAvxK2+mcVdPUPx36LBOUvgr7+WSfgv8bH3x22qUE/2CYN/csPECgX9L/VsNW/PF9axn9KYKt/4rDVP6WoqX/cb4D0x3+ur+M76dA/twn6P+sFS/3DeiGlf1TizyGOwGV8/KG0Mr683D2/tX7Q0L8/JnuToP+XQVf/biZ7h4C/HLrxvx+R3Sjgr4Ct/qn0jX8L/bMWuvrnBrI/EdT/Oujqn5vJ3ijgXw9b/bPBV372HVybrJPNDvzZsE0N+iFc0tC/t5K9TtD/N0Jf/94u4L8OuvG/TWRvEfBfD1v9w+uVpf65Abb650bY6p9NqKl/3G/gZP3D/rTfEn5ax3f+n/5peAdKelBfU+j1Q0M/uh9/y3j9ePzg0aPv79rzlWv+sPpRy//xkGD9Y61o6f9gvaoZ/72X7M8F5d8MXf17H9lHBPw3Q1f/3kX2TgH/LbDVv6wVmyU/W+jfW6Grf+8m+4Cg/m/z8WvEn/l5Bv+Bd65CmnrANp3r+lHD/3E/2XsE/e922Po/7oBu/PdBslsF5d8Cff37sID/Tujq35/Bu389KP9W2Opf1kmW+vcu2Orfu1F/nv+ioh/cj49lvH7IiVZUFMfcz79Y+D/uQU3/x5gQ478q/vtYHd9JR/z3GcH8x/Olpf5hraKpf54k+4Sg/PdCV/9sJ/ucgP8+6OqfbfDOcAXlvx+2+ofX6panx1/69c8D0NU/j5N9WlD/D0I3/reD7K8F/A/Bdv/7MOrP+99YP7Ie35IcQ9LUE7Yp0/Wjhv7ZSfZXgv7/CPT1z7MC/l9CV//8huxTAv5HYat/uK0s9c9jsNU/22Ab/3scNfe/Y0O0fyTRn/cRXqjjO6l974ms+Bn730xPeUXlFe5vLzid3/kEVOa//zO8/nkLsvfP8l4p9fw1C/3D83XK/6+hf14luxvB5/8noKt/fies/yehq3/4uRXPC8q/Hfr6500Bf/X3r6Zf/+yArv55ieweQfmfgp7/L+z+n99F/iHhGOFfDvl7Gc+fmb7/19C/r5F9WdD/noat/t0J3fjPG2R3Ccr/DHT1z16ybwv4n4Wu/nmF7OsC/udgq3/4XrmU/plB3Fznrkc4XJ7/z2tlm+TngsS7z70x6PIGBhf9sQv+5z+3OvD24YN8C9Ke/fv2iPnD3kNm/fx/lfiT++M7zPVDTmLuWe78BH4X/f3CGfNfJY3AeNr4X0RN/T0UQ5zHvxd/Ok6ff1/Hd1K6uzb9rRV/OiYYi7xftIw/8V5BM/50kOz7gvK/Al39dYjsRwL+3dDVX38g+46A/1Xo7f/zY+UV0bIK5wC0dfyhWbI9tib7kDT1hm0Kqz8s4o/sr2iV/Gyhv1+Drv7eT/aIYPy9Dt3442Gy7wn498BWf70BXf11lOy7gvK/Cf3404cC/regq78OkP1AwL8XevP/uf78lNxVsWWrQwQgUvldAxBh9/8W+pt9FZbxx32wjT++A9v447s4U/+49j/SP6f5P63jO+nQP/8QzH+s01LxHwv9w/v11PvfNfTPX8j+WVD+/bB9//Z70NU/fyf7saD8B6Aff/pawM86Q/v5g18J+A+i/rz/bWreNFP+sPqxAt7z7PmenpUO+fsY17+G/vmc7JeC/ncIuvrnr2T/KOA/DFv98wF09c/fyH4iKP8R6L5/m+O2/xTwH4Wu/vkT2RMC/mOwjT+xVtR8//YXZD8TlP8jNLz/rRpRBqfw5//T//7147B9//rHsH3/+ic+fq33b/9bMP4/he37tz+D7fu3P4fu+UfN56mkmz9s/LzrtsKMmi8bUvX0P1BLAQIXCxQAAgAIAEyQKk4s5cuY1wwAAAi2AAAJAAkAAAAAAAAAAAAAgAAAAABVSVBhY2thZ2VVVAUAB86IN1xQSwUGAAAAAAEAAQBAAAAADw0AAAAA
 
 
 [Script]
@@ -36,6 +36,36 @@ UEsDBBQAAgAIAGCxKE70+AswzgwAAAi2AAAJABEAVUlQYWNrYWdlVVQNAAf0HzVc9B81XPQfNVztXWeY
 
 //主程ID
 Dimenv ID1
+
+//战斗相关
+Dimenv Resupply, ChapterSelect, Scaling, Recycle, RepairTimes, Rounds, CompleteTimes
+
+//偷电池
+Dimenv StealBattery
+
+//闪退重绑定
+Dimenv ReBound, RestartTimes
+
+Rounds = 0
+RepairTimes = 0
+CompleteTimes = 0
+RestartTimes = 0
+Resupply = False
+StealBattery = False
+Recycle = True
+ReBound = False
+Scaling = True
+ChapterSelect = True
+
+//时间管理相关
+Dimenv ZeroOclock, SixOclock, TwelveOclock, EighteenOclock, MyHour, MyWeekDay, StartTime
+ZeroOclock = True
+SixOclock = True
+TwelveOclock = True
+EighteenOclock = True
+MyHour = Hour(Now)
+MyWeekDay = Weekday(Date)
+StartTime = Now
 
 //加载大漠插件
 PutAttachment ".\plugin", "RegDll.dll"
@@ -48,85 +78,28 @@ Dimenv hwnd, hwnd2
 hwnd = dm.GetMousePointWindow()
 hwnd2 = dm.FindWindow("", "MuMu模拟器")
 
-TracePrint hwnd
-TracePrint hwnd2
-
-/*
-hwnd = Plugin.Window.MousePoint()
-hwnd2 = Plugin.Window.FindEx(hwnd, 0, "Qt5QWindowIcon", "少女前线 - MuMu模拟器")
- */
-/*
-//绑定句柄
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-
-TracePrint dm_ret
-TracePrint dm.GetLastError()
-*/
-
-//战斗相关
-Dimenv Resupply
-Dimenv ChapterSelect
-Dimenv Scaling
-DimEnv Recycle
-Dimenv RepairTimes, Rounds, CompleteTimes, RestartTimes
-
-Rounds = 0
-RepairTimes = 0
-CompleteTimes = 0
-RestartTimes = 0
-Resupply = False
-StealBattery = False
-Recycle = True
-
-
-//偷电池
-Dimenv StealBattery
-
-//时间管理相关
-Dimenv ZeroOclock, SixOclock, TwelveOclock, EighteenOclock, MyHour, MyWeekDay, StartTime
-ZeroOclock = True
-SixOclock = True
-TwelveOclock = True
-EighteenOclock = True
-MyHour = Hour(Now)
-MyWeekDay = Weekday(Date)
-StartTime = Now
-
 //************************************************config初始化************************************************
 
 //************************************************开始进程************************************************
 
-BeginThread 变量监听
+BeginThread Listener
 
-BeginThread 闪退重进
+BeginThread SubMain
 
-BeginThread 再派遣和关闭成就弹窗
+BeginThread StuckedReload
 
 Rem Restart
 
-Scaling = True
-ChapterSelect = True
+BeginThread CrashedReload
 
 ID1 = BeginThread(main)
 
-/*
-Sub OnScriptExit()
-
-dm_ret = dm.UnBindWindow() 
-
-End Sub
-
-*/
 Sub OnThreadExit()
 Set dm = CreateObject("dm.dmsoft")
 dm_ret = dm.UnBindWindow()
-TracePrint dm_ret
-
 End Sub
 
-
 //************************************************开始进程************************************************
-
 
 
 //********************************************************************定义主线程********************************************************************
@@ -134,8 +107,6 @@ End Sub
 //********************************************************************定义主线程********************************************************************
 
 Sub main
-
-BeginThread 卡bug强退
 
 //加载大漠插件
 Set dm = CreateObject("dm.dmsoft")
@@ -156,7 +127,7 @@ End If
 Delay 1000
 Loop While i = 0
 
-//TimeMachine
+//时间跳转
 MyHour = Hour(Now)
 If MyHour < 6 Then 
 ZeroOclock = False
@@ -174,17 +145,13 @@ End If
 
 Do
 //0点
-
 Call 收每日奖励
-
 Call 打模拟
 Rem Night
 Call 刷图 
 
 //6点
-
 Call 偷电池
-
 Call 打模拟
 Rem Morning
 Call 刷图   
@@ -196,7 +163,6 @@ Call 刷图
 
 //18点
 Call 打模拟
-//收任务奖励
 Rem Evening
 Call 刷图
 
@@ -252,7 +218,7 @@ End Sub
 
 //******************************变量监听******************************
 
-Sub 变量监听
+Sub Listener
 
 Do
 
@@ -302,7 +268,7 @@ End Function
 //******************************卡bug强退******************************
 //******************************卡bug强退******************************
 
-Sub 卡bug强退
+Sub StuckedReload
 
 Do
 
@@ -319,9 +285,6 @@ b = CompleteTimes
 TracePrint b
 
 If a = b Then 
-/*
-MessageBox "stucked"
-*/
 
 StopThread (ID1)
 
@@ -363,7 +326,7 @@ End Sub
 //******************************闪退重进******************************
 //******************************闪退重进******************************
 
-Sub 闪退重进
+Sub CrashedReload
 
 Delay 60000
 
@@ -396,6 +359,10 @@ If intX > 0 And intY > 0 Then
 
 StopThread (ID1)
 
+ReBound = True
+Scaling = True
+ChapterSelect = True
+
 Rounds = 0
 
 RestartTimes = RestartTimes + 1
@@ -405,23 +372,8 @@ Form1.ListBox1.AddItem Now
 dm.MoveTo intX, intY
 dm.LeftClick
 Delay 9000
-/*
-Do
-i = 0
-//解绑句柄
-dm_ret = dm.UnBindWindow() 
-If dm_ret = 1 Then 	
-i = 1
-Else 
-dm_ret = dm.UnBindWindow() 
-Delay 500
-End If
-Delay 500
-Loop While i = 0
 
-TracePrint dm_ret
-TracePrint dm.GetLastError()
-*/
+
 Do
 i = 0
 //绑定句柄
@@ -459,17 +411,6 @@ dm.MoveTo 165, 340
 dm.LeftClick
 Delay 15000
 
-
-//020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\关闭.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-dm.MoveTo 515, 405
-dm.LeftClick
-End If
-Delay 500
-
-BeginThread 闪退重进
-
 Call 重进收尾()
 
 End If
@@ -487,6 +428,14 @@ i=0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
+Else 
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\关闭.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo 515, 405
+dm.LeftClick
+End If
+Delay 500
 End If
 Delay 500
 Loop While i = 0
@@ -566,12 +515,6 @@ If intX > 0 And intY > 0 Then
 dm.MoveTo 390, 440
 dm.LeftClick
 Delay 1000
-/*
-//再派遣代为确定
-dm.MoveTo 777, 464
-dm.LeftClick
-Delay 1000
-*/
 Else 
 dm.MoveTo 170, 70
 dm.LeftClick
@@ -624,12 +567,6 @@ If intX > 0 And intY > 0 Then
 dm.MoveTo 390, 440
 dm.LeftClick
 Delay 1000
-/*
-//再派遣代为确定
-dm.MoveTo 
-dm.LeftClick
-Delay 1000
-*/
 Else 
 dm.MoveTo 200, 80
 dm.LeftClick
@@ -654,9 +591,11 @@ End Sub
 //******************************再派遣和关闭成就弹窗******************************
 
 
-Sub 再派遣和关闭成就弹窗
+Sub SubMain
 
 Delay 30000
+
+Rem reBd
 
 //加载大漠插件
 Set dm = CreateObject("dm.dmsoft")
@@ -718,6 +657,11 @@ End If
 
 Delay 500
 */
+
+If ReBound = True Then 
+Goto reBd
+End If
+
 Loop
 End Sub
 
@@ -926,6 +870,26 @@ dm.LeftClick
 Delay 3000
 
 Rem backbase
+
+Do
+i = 0
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 60, 40
+dm.LeftClick
+Delay 3000
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\狗牌.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo 529, 295
+dm.LeftClick	
+Delay 3000
+End If
+End If
+Loop While i = 0
 
 End Sub
 
@@ -1325,7 +1289,7 @@ If intX > 0 And intY > 0 Then
 dm.MoveTo intX, intY
 dm.LeftClick 
 Else 
-dm.MoveTo 780, 175
+dm.MoveTo 640, 175
 dm.LeftClick 
 End If
 
@@ -2324,22 +2288,29 @@ End If
 //************************计划模式************************
 //************************执行计划************************
 
+Rem replan
+
 //选择计划
 dm.MoveTo 50, 470
 dm.LeftClick
 Delay 500
 
+//确认计划无误
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+Else 
+Goto rePlan
+End If
+
 //选择打手队
 dm.MoveTo 510, 280
 dm.LeftClick
 Delay 500
-
 //选择点1
 dm.MoveTo 350, 180
 dm.LeftClick
 Delay 500
-
-Rem replan
 
 //上划地图
 dm.MoveTo 800, 350
@@ -2369,6 +2340,14 @@ Delay 500
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划021.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Else 
+
+dm.MoveTo 800, 350
+Delay 200
+For 11
+dm.WheelDown
+Delay 500
+Next
+
 Goto replan
 End If
 
@@ -2592,10 +2571,10 @@ Loop While i = 0
 //重磅热点，系统公告返回
 dm.MoveTo 100, 45
 dm.LeftClick
-Delay 3000
+Delay 9000
 dm.MoveTo 100, 45
 dm.LeftClick
-Delay 3000
+Delay 6000
 //关闭奖励
 dm.MoveTo 525, 405
 dm.LeftClick

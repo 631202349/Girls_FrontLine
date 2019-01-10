@@ -27,13 +27,10 @@ UEsDBBQAAgAIAEw5TD+cfTI/KxMAAABgAAAKABEAUmVnRGxsLmRsbFVUDQAHbj2VTs7VGlyV/hlc7VwP
 
 
 [Script]
-
-
 PutAttachment ".\plugin", "RegDll.dll"
 PutAttachment ".\plugin\dm", "dm.dll"
 
 Plugin.RegDll.Reg (Plugin.sys.GetDir(0) + "\plugin\dm\dm.dll")
-
 
 //加载大漠插件
 Set dm = CreateObject("dm.dmsoft")
@@ -49,21 +46,13 @@ TracePrint dm_ret
 TracePrint dm.GetLastError()
 
 
+BeginThread 再派遣和关闭成就弹窗
 
+Rem Restart
 
+BeginThread 闪退重进
 
-
-//020202为偏色，0为寻找方向可以自由设置
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\护盾妖精.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-TracePrint intX
-End If
-
-
-
-
-
-
+ID1 = BeginThread(main)
 
 
 Sub OnThreadExit()
@@ -73,3 +62,137 @@ dm_ret = dm.UnBindWindow()
 
 End Sub
 
+
+//******************************闪退重进******************************
+
+Sub 闪退重进
+
+Delay 18000
+
+Call dmbd(hwnd)
+
+Delay 1000
+
+Do
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\少前.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+
+StopThread (ID1)
+
+dm.MoveTo intX, intY
+dm.LeftClick
+Delay 9000
+
+Goto Restart
+
+End If
+
+TracePrint "listen"
+
+Delay 12000
+Loop
+End Sub
+
+//******************************再派遣和关闭成就弹窗******************************
+
+
+Sub 再派遣和关闭成就弹窗
+
+Delay 9000
+
+Call dmbd(hwnd)
+
+Delay 1000
+
+Do
+
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进入游戏.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+TracePrint "enter"
+End If
+
+Delay 9000
+
+Loop
+End Sub
+
+//********************************************************************定义主线程********************************************************************
+
+Sub main
+
+BeginThread 卡bug强退
+
+Call dmbd(hwnd)
+
+Do
+TracePrint "main"
+Delay 6000
+Loop
+
+End Sub
+
+//******************************卡bug强退******************************
+
+Sub 卡bug强退
+
+Delay 27000
+
+Do
+
+Dim a, b
+
+a = 1
+Delay 9000
+b = 1
+
+If a = b Then 
+
+StopThread (ID1)
+
+Call dmbd(hwnd2)
+
+Delay 1000
+
+dm.MoveTo 400, 15
+dm.LeftClick 
+
+dm_ret = dm.UnBindWindow()
+TracePrint dm_ret
+
+TracePrint "selfRestart"
+
+End If
+
+Delay 30000
+
+Loop
+
+End Sub
+
+
+
+
+
+
+
+Sub dmbd(h)
+
+//加载大漠插件
+Set dm = CreateObject("dm.dmsoft")
+
+Do
+i = 0
+//绑定句柄
+dm_ret = dm.BindWindow(h, "dx2", "dx", "dx", 0)
+If dm_ret = 1 Then 	
+i = 1
+Delay 1000
+Else 
+dm_ret = dm.BindWindow(h, "dx2", "dx", "dx", 0)
+Delay 1000
+End If
+Delay 1000
+Loop While i = 0
+	
+End Sub
