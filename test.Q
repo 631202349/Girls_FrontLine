@@ -27,6 +27,7 @@ UEsDBBQAAgAIAEw5TD+cfTI/KxMAAABgAAAKABEAUmVnRGxsLmRsbFVUDQAHbj2VTs7VGlyV/hlc7VwP
 
 
 [Script]
+
 PutAttachment ".\plugin", "RegDll.dll"
 PutAttachment ".\plugin\dm", "dm.dll"
 
@@ -46,6 +47,10 @@ TracePrint dm_ret
 TracePrint dm.GetLastError()
 
 
+
+
+
+/*
 BeginThread 再派遣和关闭成就弹窗
 
 Rem Restart
@@ -196,3 +201,4 @@ Delay 1000
 Loop While i = 0
 	
 End Sub
+*/
