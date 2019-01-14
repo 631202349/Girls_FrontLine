@@ -48,6 +48,27 @@ TracePrint dm.GetLastError()
 
 
 
+//后勤回归
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\后勤回归.bmp","020202", 0.9,0, intX, intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo intX, intY
+dm.LeftClick
+Delay 1500
+End If
+
+Delay 500
+
+//再派遣确定
+//020202为偏色，0为寻找方向可以自由设置
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\再派遣确定.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo intX, intY
+dm.LeftClick
+Delay 1500
+End If
+
+Delay 500
 
 
 /*
