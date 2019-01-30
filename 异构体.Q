@@ -59,8 +59,47 @@ End If
 Delay 1000
 Loop While i = 0
 
+BeginThread crash
 
-Rem start
+Sub crash
+
+Delay 30000
+
+Set dm = CreateObject("dm.dmsoft")
+
+Do
+i = 0
+dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
+TracePrint dm_ret
+TracePrint dm.GetLastError()
+If dm_ret = 1 Then 	
+i = 1
+Delay 1000
+Else 
+dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
+Delay 1000
+End If
+Delay 1000
+Loop While i = 0
+
+Do
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\少前.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+MessageBox "crashed"
+End If
+Delay 3000
+Loop
+
+End Sub
+
+
+
+Call Isomer
+
+
+Sub Isomer
+
+For 10
 
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\确认出击.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
@@ -147,12 +186,20 @@ Loop While i = 0
 //结束第一回合
 dm.MoveTo 900, 510
 dm.LeftClick 
+Delay 3000
+dm.MoveTo 900, 510
+dm.LeftClick 
+Delay 9000
 
 Do
 i=0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回合开始02.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
+Else 
+dm.MoveTo 900, 510
+dm.LeftClick 
+Delay 9000
 End If
 Delay 500
 Loop While i = 0
@@ -281,7 +328,7 @@ End If
 Delay 500
 Loop While i = 0
 
-Delay 3000
+Delay 5000
 
 //选择路人等待
 dm.MoveTo 450, 325
@@ -441,86 +488,53 @@ dm.MoveTo 670, 150
 dm.LeftClick
 Delay 2000
 
+
+//左一格上一格
+//select plan
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+Do
+i = 0
+//confirm plan
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i=1
+Else 
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+End If
+Loop While i = 0
+//select point
 dm.MoveTo 490, 120
 dm.LeftClick
-Delay 4000
+Delay 300
+dm.MoveTo 470, 60
+dm.LeftClick
+Delay 300
+//执行计划
+dm.MoveTo 900, 520
+dm.LeftClick
+Delay 9000
 
+//回收人质
 dm.MoveTo 470, 120
-dm.LeftClick
+dm.LeftClick 
 Delay 1000
-dm.MoveTo 430, 120
-dm.LeftClick
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 470, 120
+dm.LeftClick 
 Delay 2000
-
-
-//结束回合
-dm.MoveTo 900, 510
-dm.LeftClick 
-Delay 6000
-
-
-Do
-i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\暂停.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-dm.MoveTo 510, 15
-dm.LeftClick
-Delay 1000
-dm.MoveTo 330, 15
-dm.LeftClick
-Delay 3000
-dm.MoveTo 330, 15
-dm.LeftClick 
-Delay 500
-dm.MoveTo 330, 15
-dm.LeftClick 
-Delay 500
-dm.MoveTo 330, 15
-dm.LeftClick 
 End If
 Delay 500
-Loop While i = 0
-
-Do
-i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\暂停.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-dm.MoveTo 510, 15
-dm.LeftClick
-Delay 1000
-dm.MoveTo 330, 15
-dm.LeftClick
-Delay 3000
-dm.MoveTo 330, 15
-dm.LeftClick 
-Delay 500
-dm.MoveTo 330, 15
-dm.LeftClick 
-Delay 500
-dm.MoveTo 330, 15
-dm.LeftClick 
-End If
-Delay 500
-Loop While i = 0
-
-Delay 12000
-
-
-Do
-i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\关闭.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-End If
-Delay 500
-Loop While i = 0
-
-dm.MoveTo 520, 415
-dm.LeftClick 
-Delay 5000
-dm.MoveTo 520, 540
+Loop While i=0
+dm.MoveTo 620, 520
 dm.LeftClick 
 Delay 1000
 
@@ -532,15 +546,17 @@ i = 1
 Else 
 dm.MoveTo 520, 540
 dm.LeftClick 
-Delay 1000
+Delay 500
 End If
 Delay 500
 Loop While i = 0
-
 
 dm.MoveTo 480, 280
 dm.LeftClick 
 Delay 3000
 
+Next
 
-Goto start
+MessageBox "Mission Complete"
+
+End Sub
