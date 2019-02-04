@@ -59,7 +59,39 @@ End If
 Delay 1000
 Loop While i = 0
 
-BeginThread crash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//BeginThread crash
 
 Sub crash
 
@@ -93,8 +125,7 @@ Loop
 End Sub
 
 
-
-Call Isomer
+//Call Isomer
 
 
 Sub Isomer

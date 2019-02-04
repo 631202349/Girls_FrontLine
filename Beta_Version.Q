@@ -27,7 +27,7 @@ UEsDBBQAAgAIAEw/CkFpA+Qdl5wLAACQDAAGABEAZG0uZGxsVVQNAAcuvyRQ6lw/XKY5UFDs/XlUE8kf
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -99,7 +99,7 @@ Call BoundWindow
 
 Do
 
-If Form1.OptionBox4.Value = 1 Then 
+If Form1.CheckBox3.Value = 1 Then 
 Call Isomer
 Else 
 Call Combat 
@@ -154,11 +154,11 @@ Form1.Label5.Caption = "RestartTimes : " & RestartTimes
 
 MyHour = Hour(Now)
 
-If MyHour = 2 Then 
+If MyHour = 14 Then 
 
 CollectBattery = False
 
-ElseIf MyHour = 5 Or MyHour = 11 Or MyHour = 17 Or MyHour = 23 Then
+ElseIf MyHour = 9 Or MyHour = 15 Or MyHour = 19 Or MyHour = 23 Then
 
 SimulateBattle = False
 
@@ -205,13 +205,12 @@ Sub CrashedReloading
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\少前.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 StopThread (ID1)
-Delay 3000
+Delay 5000
 dm.MoveTo 160, 130
 dm.LeftClick
 
-If Form1.OptionBox4.Value = 1 And Form1.CheckBox2 <> 1 Then 
-MessageBox "crashed"
-Else Form1.OptionBox1.Value = 1
+If Form1.CheckBox3.Value = 1 And Form1.CheckBox2 <> 1 Then 
+Form1.CheckBox3.Value = 0
 End If
 
 Initial = True
@@ -244,6 +243,13 @@ i = 0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
+
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\更新.bmp","020202",0.9,0,intX,intY)
+ElseIf intX > 0 And intY > 0 Then
+dm.MoveTo intX, intY
+dm.LeftClick 
+Delay 30000
+
 Else 
 dm.MoveTo 540, 380
 dm.LeftClick
@@ -963,7 +969,7 @@ End If
 Delay 500
 Loop While i = 0
 // select echelon 3
-dm.MoveTo 50, 300
+dm.MoveTo 50, 250
 dm.LeftClick 
 Delay 500
 dm.MoveTo 930, 500
@@ -1289,30 +1295,36 @@ i = 0
 //retreat for safe
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\暂停.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
+dm.MoveTo 320, 240
+dm.LeftClick
+Delay 200
+dm.MoveTo 90, 135
+dm.LeftClick
+Delay 200
 dm.MoveTo 60, 410
 dm.LeftClick
 Delay 200
 dm.MoveTo 90, 135
 dm.LeftClick
-Delay 300
+Delay 200
 dm.MoveTo 220, 220
 dm.LeftClick
 Delay 200
 dm.MoveTo 90, 135
 dm.LeftClick
-Delay 300
+Delay 200
 dm.MoveTo 240, 420
 dm.LeftClick
 Delay 200
 dm.MoveTo 90, 135
 dm.LeftClick
-Delay 300
+Delay 200
 dm.MoveTo 300, 310
 dm.LeftClick
 Delay 500
 dm.MoveTo 90, 135
 dm.LeftClick
-Delay 3000
+Delay 1500
 
 //left slides
 dm.MoveTo 450, 310
@@ -1443,30 +1455,36 @@ i = 0
 //retreat for safe
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\暂停.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
+dm.MoveTo 320, 240
+dm.LeftClick
+Delay 200
+dm.MoveTo 90, 135
+dm.LeftClick
+Delay 200
 dm.MoveTo 60, 410
 dm.LeftClick
 Delay 200
 dm.MoveTo 90, 135
 dm.LeftClick
-Delay 300
+Delay 200
 dm.MoveTo 220, 220
 dm.LeftClick
 Delay 200
 dm.MoveTo 90, 135
 dm.LeftClick
-Delay 300
+Delay 200
 dm.MoveTo 240, 420
 dm.LeftClick
 Delay 200
 dm.MoveTo 90, 135
 dm.LeftClick
-Delay 300
+Delay 200
 dm.MoveTo 300, 310
 dm.LeftClick
 Delay 500
 dm.MoveTo 90, 135
 dm.LeftClick
-Delay 3000
+Delay 1500
 
 //left slides
 dm.MoveTo 450, 310
@@ -2020,7 +2038,7 @@ dm.MoveTo 360, 175
 dm.LeftClick 
 End If
 Else
-dm.MoveTo 80, 420
+dm.MoveTo 220, 420
 dm.LeftClick 
 End If
 
@@ -2364,7 +2382,7 @@ dm.MoveTo 430, 160
 dm.LeftClick
 Delay 1500
 
-ElseIf Form1.OptionBox2.Value = 1 or Form1.OptionBox4.Value =1 Then
+ElseIf Form1.OptionBox2.Value = 1 or Form1.CheckBox3.Value =1 Then
 //*******************************Select T-Dolls****************************
 dm.MoveTo 255, 155
 dm.LeftClick
@@ -2580,7 +2598,7 @@ End Sub
 
 Sub Domitory
 	
-If CollectBattery = False And MyHour = 3 Then 
+If CollectBattery = False And MyHour = 15 Then 
 Call Battery
 End If
 
@@ -2597,8 +2615,6 @@ End Sub
 //*************************************************************Battery*************************************************************
 
 Sub Battery
-
-CollectBattery = True
 
 //select friend
 dm.MoveTo 890, 530
@@ -2646,8 +2662,11 @@ i = 1
 End If
 Delay 500
 Loop While i = 0
+
+CollectBattery = True
+
 //collect battery
-For 55
+For 57
 dm.MoveTo 205, 320
 dm.LeftClick
 Delay 1000
@@ -2693,29 +2712,40 @@ If SimulateBattle = False Then
 MyWeekDay = Weekday(Date)
 
 If MyWeekDay = 4 Then 
-If MyHour = 0 or MyHour = 6 or MyHour = 12 or MyHour = 18 Then 
+If MyHour = 0 Then 
 Call MiddleAI
 End If
+
+If MyHour = 20 Then 
+For 2
+Call MiddleAI
+Next
+End If
+
+If MyHour = 10 or MyHour = 16 Then 
+Call HighAI
+End If
+
 End If
 
 
 If MyWeekDay = 2 or MyWeekDay = 5 or MyWeekDay = 7 Then 
-If MyHour = 6 or MyHour = 18 Then 
+If MyHour = 10 or MyHour = 20 Then 
 Call HighAI
 End If
 
-If MyHour = 0 or MyHour = 12 Then 
+If MyHour = 0 or MyHour = 16 Then 
 Call MiddleAI
 End If
 End If
 
 If MyWeekDay = 1 or MyWeekDay = 3 or MyWeekDay = 6 Then 
-If MyHour = 0 or MyHour = 6 or MyHour = 18 Then 
+If MyHour = 0 or MyHour = 10 or MyHour = 16 Then 
 For 2
 Call MiddleSkill	
 Next
 End If
-If MyHour = 12 Then 
+If MyHour = 20 Then 
 Call MiddleSkill
 End If
 End If
