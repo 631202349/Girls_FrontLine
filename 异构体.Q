@@ -125,12 +125,50 @@ Loop
 End Sub
 
 
-//Call Isomer
+//*************************************************************ISOMER*************************************************************
+//*************************************************************ISOMER*************************************************************
+//*************************************************************ISOMER*************************************************************
 
+Sub Isomer异构体和幻三
 
-Sub Isomer
+//Select Combat module
+dm.MoveTo 680, 360
+dm.LeftClick
+Delay 3000
+
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+dm.MoveTo 50, 420
+dm.LeftClick
+Delay 1500
+Else 
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo 680, 360
+dm.LeftClick
+Delay 3000
+End If
+End If
+Delay 300
+Loop While i = 0
 
 For 10
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\异构体和幻三.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+dm.MoveTo 480, 280
+dm.LeftClick 
+Delay 3000
 
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\确认出击.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
@@ -150,6 +188,8 @@ End If
 Delay 500
 Loop While i = 0
 
+If Initial = True Then 
+Initial = False
 //scaling
 dm.MoveTo 529, 295
 dm.KeyDownChar "ctrl"
@@ -158,9 +198,10 @@ dm.WheelDown
 Delay 1000
 Next
 dm.KeyUpChar "ctrl"
+End If
 
 
-//选指挥部
+//select headquarters
 dm.MoveTo 250, 170
 dm.LeftClick 
 Delay 1500
@@ -169,6 +210,9 @@ i = 0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
+dm.MoveTo 50, 340
+dm.LeftClick 
+Delay 500
 Else 
 dm.MoveTo 250, 170
 dm.LeftClick
@@ -213,8 +257,7 @@ End If
 Delay 500
 Loop While i = 0
 
-
-//结束第一回合
+//end round 1
 dm.MoveTo 900, 510
 dm.LeftClick 
 Delay 3000
@@ -265,12 +308,12 @@ Delay 300
 dm.MoveTo 160, 250
 dm.LeftClick
 Delay 300
-//执行计划
+//excute plan
 dm.MoveTo 900, 520
 dm.LeftClick
 Delay 300
 
-//等待计划
+//waiting
 Delay 12000
 
 Do
@@ -282,10 +325,10 @@ End If
 Delay 500
 Loop While i = 0
 
-//等待计划
+//waiting
 Delay 3000
 
-//救人
+//rescue
 dm.MoveTo 200, 280
 dm.LeftClick
 Delay 1000
@@ -293,22 +336,21 @@ dm.MoveTo 230, 280
 dm.LeftClick
 Delay 3000
 
-//解锁
+//unlock
 dm.MoveTo 90, 365
 dm.LeftClick
 Delay 3000
 
-//开门
+//open the door
 dm.MoveTo 200, 280
 dm.LeftClick
 Delay 1000
-dm.MoveTo 90, 390
+dm.MoveTo 150, 365
 dm.LeftClick
 Delay 6000
 
-//计划走到底
-//select plan
 
+//select plan
 dm.MoveTo 50, 470
 dm.LeftClick
 Delay 300
@@ -344,11 +386,10 @@ Delay 300
 dm.MoveTo 580, 480
 dm.LeftClick
 Delay 300
-//执行计划
+//excute plan
 dm.MoveTo 900, 520
 dm.LeftClick
 Delay 18000
-
 
 Do
 i=0
@@ -361,7 +402,7 @@ Loop While i = 0
 
 Delay 5000
 
-//选择路人等待
+//select wait
 dm.MoveTo 450, 325
 dm.LeftClick
 Delay 1000
@@ -383,7 +424,7 @@ dm.LeftClick
 Delay 1000
 
 
-//结束回合
+//end round 
 dm.MoveTo 900, 510
 dm.LeftClick 
 Delay 6000
@@ -423,7 +464,6 @@ Loop While i = 0
 
 Delay 9000
 
-//左一格上一格
 //select plan
 dm.MoveTo 50, 470
 dm.LeftClick
@@ -451,7 +491,7 @@ Delay 300
 dm.MoveTo 530, 350
 dm.LeftClick
 Delay 300
-//执行计划
+//excute plan
 dm.MoveTo 900, 520
 dm.LeftClick
 Delay 3000
@@ -468,7 +508,7 @@ Loop While i = 0
 Delay 3000
 
 
-//上换人，上换人，右换人，右换人，右换人，上换人，左走，上走，结束回合
+//exchange place 
 
 dm.MoveTo 450, 325
 dm.LeftClick
@@ -519,8 +559,6 @@ dm.MoveTo 670, 150
 dm.LeftClick
 Delay 2000
 
-
-//左一格上一格
 //select plan
 dm.MoveTo 50, 470
 dm.LeftClick
@@ -544,12 +582,12 @@ Delay 300
 dm.MoveTo 470, 60
 dm.LeftClick
 Delay 300
-//执行计划
+//excute plan
 dm.MoveTo 900, 520
 dm.LeftClick
 Delay 9000
 
-//回收人质
+//recycle hostage
 dm.MoveTo 470, 120
 dm.LeftClick 
 Delay 1000
@@ -582,12 +620,620 @@ End If
 Delay 500
 Loop While i = 0
 
-dm.MoveTo 480, 280
-dm.LeftClick 
-Delay 3000
+CompleteTimes = CompleteTimes + 1
 
 Next
 
-MessageBox "Mission Complete"
+Call ReturnToBase
+
+Call Retire
+
+End Sub
+
+//*************************************************************ISOMERIsomerP22打捞*************************************************************
+
+Sub IsomerP22打捞
+
+//Select Combat module
+dm.MoveTo 680, 360
+dm.LeftClick
+Delay 3000
+
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+dm.MoveTo 50, 420
+dm.LeftClick
+Delay 1500
+Else 
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo 680, 360
+dm.LeftClick
+Delay 3000
+End If
+End If
+Delay 300
+Loop While i = 0
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\异构体鲜血信念二.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+dm.MoveTo 390, 300
+dm.LeftClick 
+Delay 3000
+
+dm.MoveTo 900, 350
+dm.LeftClick 
+Delay 1000
+
+For 6
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+If Initial = True Then 
+Initial = False
+//scaling
+dm.MoveTo 529, 295
+dm.KeyDownChar "ctrl"
+For 6
+dm.WheelDown
+Delay 1000
+Next
+dm.KeyUpChar "ctrl"
+End If
+
+//select airport
+dm.MoveTo 780, 120
+dm.LeftClick 
+Delay 1500
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 780, 120
+dm.LeftClick
+Delay 2000
+End If
+Delay 500
+Loop While i=0
+dm.MoveTo 930, 500
+dm.LeftClick
+Delay 2000
+
+//select headquarters
+dm.MoveTo 145, 240
+dm.LeftClick 
+Delay 1500
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 145, 240
+dm.LeftClick
+Delay 2000
+End If
+Delay 500
+Loop While i=0
+dm.MoveTo 930, 500
+dm.LeftClick
+Delay 2000
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i=1
+End If
+Delay 500
+Loop While i = 0
+
+//start battle
+dm.MoveTo 810, 496
+dm.LeftClick
+Delay 3000
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回合开始01.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+//airport Resupply
+dm.MoveTo 780, 120
+dm.LeftClick
+Delay 500
+dm.LeftClick
+Delay 1500
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 780, 120
+dm.LeftClick
+Delay 1000
+End If
+Delay 500
+Loop While i=0
+//resupply
+dm.MoveTo 880, 430
+dm.LeftClick
+Delay 2000
+
+//select plan
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+Do
+i = 0
+//confirm plan
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i=1
+Else 
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+End If
+Loop While i = 0
+
+//select point
+dm.MoveTo 680, 120
+dm.LeftClick
+Delay 300
+dm.MoveTo 680, 180
+dm.LeftClick
+Delay 300
+dm.MoveTo 550, 190
+dm.LeftClick
+Delay 300
+dm.MoveTo 580, 280
+dm.LeftClick
+Delay 300
+dm.MoveTo 610, 360
+dm.LeftClick
+Delay 300
+//excute plan
+dm.MoveTo 900, 520
+dm.LeftClick
+Delay 300
+
+//waiting
+Delay 30000
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\异构体鲜血信念二1.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+//end round 
+dm.MoveTo 900, 510
+dm.LeftClick 
+Delay 500
+dm.MoveTo 900, 510
+dm.LeftClick 
+Delay 500
+dm.MoveTo 900, 510
+dm.LeftClick 
+Delay 18000
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回合开始02.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+
+//select plan
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+Do
+i = 0
+//confirm plan
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i=1
+Else 
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+End If
+Loop While i = 0
+
+//select point
+dm.MoveTo 610, 290
+dm.LeftClick
+Delay 300
+dm.MoveTo 645, 360
+dm.LeftClick
+Delay 300
+//excute plan
+dm.MoveTo 900, 520
+dm.LeftClick
+Delay 300
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\异构体鲜血信念二2.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+Delay 2000
+
+//rescue
+dm.MoveTo 640, 290
+dm.LeftClick
+Delay 1000
+dm.MoveTo 680, 360
+dm.LeftClick
+Delay 1000
+dm.MoveTo 630, 360
+dm.LeftClick
+Delay 3000
+
+//select plan
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+Do
+i = 0
+//confirm plan
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i=1
+Else 
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+End If
+Loop While i = 0
+//select point
+dm.MoveTo 740, 420
+dm.LeftClick
+Delay 300
+//excute plan
+dm.MoveTo 900, 520
+dm.LeftClick
+Delay 18000
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\异构体鲜血信念二3.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+Delay 2000
+
+//end combat 
+dm.MoveTo 250, 40
+dm.LeftClick 
+Delay 1000
+dm.MoveTo 390, 390
+dm.LeftClick 
+Delay 1000
+
+CompleteTimes = CompleteTimes + 1
+
+Next
+
+Call ReturnToBase
+
+Call Retire
+
+Call Restore
+
+End Sub
+
+//*************************************************************ISOMERIsomerOTS14打捞*************************************************************
+
+Sub IsomerOTS14打捞
+
+//Select Combat module
+dm.MoveTo 680, 360
+dm.LeftClick
+Delay 3000
+
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+dm.MoveTo 50, 420
+dm.LeftClick
+Delay 1500
+Else 
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+dm.MoveTo 680, 360
+dm.LeftClick
+Delay 3000
+End If
+End If
+Delay 300
+Loop While i = 0
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\异构体鲜血信念一.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+dm.MoveTo 390, 300
+dm.LeftClick 
+Delay 3000
+
+dm.MoveTo 900, 350
+dm.LeftClick 
+Delay 1000
+
+For 10
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+If Initial = True Then 
+Initial = False
+//scaling
+dm.MoveTo 529, 295
+dm.KeyDownChar "ctrl"
+For 6
+dm.WheelDown
+Delay 1000
+Next
+dm.KeyUpChar "ctrl"
+End If
+
+//select headquarters
+dm.MoveTo 560, 290
+dm.LeftClick 
+Delay 1500
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 560, 290
+dm.LeftClick
+Delay 2000
+End If
+Delay 500
+Loop While i=0
+dm.MoveTo 930, 500
+dm.LeftClick
+Delay 2000
+
+//select airport
+dm.MoveTo 460, 330
+dm.LeftClick 
+Delay 1500
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 460, 330
+dm.LeftClick
+Delay 2000
+End If
+Delay 500
+Loop While i=0
+dm.MoveTo 930, 500
+dm.LeftClick
+Delay 2000
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i=1
+End If
+Delay 500
+Loop While i = 0
+
+//start battle
+dm.MoveTo 810, 496
+dm.LeftClick
+Delay 3000
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回合开始01.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+//headquarters Resupply
+dm.MoveTo 560, 290
+dm.LeftClick
+Delay 500
+dm.LeftClick
+Delay 1500
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 560, 290
+dm.LeftClick
+Delay 1000
+End If
+Delay 500
+Loop While i=0
+//resupply
+dm.MoveTo 880, 430
+dm.LeftClick
+Delay 2000
+
+//select plan
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+Do
+i = 0
+//confirm plan
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i=1
+Else 
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+End If
+Loop While i = 0
+
+//select point
+dm.MoveTo 510, 380
+dm.LeftClick
+Delay 300
+dm.MoveTo 505, 435
+dm.LeftClick
+Delay 300
+//excute plan
+dm.MoveTo 900, 520
+dm.LeftClick
+Delay 300
+
+//waiting
+Delay 18000
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\异构体鲜血信念一1.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+//select plan
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+Do
+i = 0
+//confirm plan
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i=1
+Else 
+dm.MoveTo 50, 470
+dm.LeftClick
+Delay 300
+End If
+Loop While i = 0
+
+//select point
+dm.MoveTo 505, 435
+dm.LeftClick
+Delay 300
+dm.MoveTo 510, 380
+dm.LeftClick
+Delay 300
+dm.MoveTo 560, 290
+dm.LeftClick
+Delay 300
+//excute plan
+dm.MoveTo 900, 520
+dm.LeftClick
+Delay 3000
+
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\异构体鲜血信念一2.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+End If
+Delay 500
+Loop While i = 0
+
+//retreat
+dm.MoveTo 560, 290
+dm.LeftClick
+Delay 1500
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 560, 290
+dm.LeftClick
+Delay 1000
+End If
+Delay 500
+Loop While i = 0
+dm.MoveTo 810, 510
+dm.LeftClick
+Delay 4500
+
+//end combat 
+dm.MoveTo 250, 40
+dm.LeftClick 
+Delay 1000
+dm.MoveTo 390, 390
+dm.LeftClick 
+Delay 1000
+
+CompleteTimes = CompleteTimes + 1
+
+Next
+
+Call ReturnToBase
+
+Call Retire
+
+Call Restore
 
 End Sub
