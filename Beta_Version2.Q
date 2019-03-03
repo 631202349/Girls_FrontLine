@@ -45,7 +45,7 @@ UEsDBBQAAgAIAEw/CkFpA+Qdl5wLAACQDAAGABEAZG0uZGxsVVQNAAcuvyRQ6lw/XKY5UFDs/XlUE8kf
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -56,11 +56,10 @@ UEsDBBQAAgAIADSGYk6QoFpa0BUAAAhKAQAJABEAVUlQYWNrYWdlVVQNAAcWtHpcFrR6XBa0elztXQl8
 Dimenv ID1
 
 //battle toggle  
-Dimenv Resupply, Echelon, ElfOrder, Arrangement, Reloaded115
+Dimenv Resupply, Echelon, ElfOrder, Arrangement
 Resupply = False
 ElfOrder = False
 Arrangement = False
-Reloaded115 = False
 
 //subTask toggle
 Dimenv CollectBattery,SimulateBattle, Analysis
@@ -424,9 +423,11 @@ Call EnterBattleField
 Arrangement = False
 End If
 
-Call Restore	
+If Resupply = True Then 
+Call Restore
+End If
 
-For 12
+For 6
 
 Call EnterBattleField
 
@@ -437,6 +438,8 @@ CompleteTimes = CompleteTimes + 1
 Next
 
 Call ReturnToBase
+
+Call Restore	
 
 End If
 
@@ -460,9 +463,6 @@ Call Battle43e
 
 ElseIf Form1.Mission02.Value = 1 Then
 Call Battle02
-
-ElseIf Form1.Mission115.Value = 1 Then
-Call Battle115
 
 ElseIf Form1.Mission104E.Value = 1 Then
 Call Battle104e
@@ -591,27 +591,6 @@ dm.MoveTo 580, 500
 dm.LeftClick
 Delay 1500
 
-ElseIf Form1.Mission115.Value = 1 Then
-If Form1.Init.Value = 1 Then 
-Call dmCusRndMove(207, 110, 290, 549)
-Call WheelDown(5)
-dm.MoveTo 175, 500
-dm.LeftClick
-Delay 1000
-dm.MoveTo 790, 150
-dm.LeftClick
-Delay 1000
-End If
-dm.MoveTo 580, 380
-For 4
-dm.WheelDown
-Delay 200
-Next
-Delay 1000
-dm.MoveTo 580, 380
-dm.LeftClick
-Delay 1500
-
 End If
 
 Delay Int(Rnd * 500 + 500)
@@ -639,9 +618,6 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\02.bmp","0202
 
 ElseIf Form1.Mission104E.Value = 1 Then
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\104e.bmp","020202",0.9,0,intX,intY)
-
-ElseIf Form1.Mission115.Value = 1 Then
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\115.bmp","020202",0.9,0,intX,intY)
 End If
 
 If intX > 0 And intY > 0 Then 
@@ -843,6 +819,8 @@ Form1.Init.Value = 0
 Call scaling
 End If
 
+/*
+//******全薪撤退练级******
 Call deploy(840, 367)
 
 Call deploy(151, 269)
@@ -869,9 +847,89 @@ Call waiting("43e1")
 
 Call retreat(841,391)
 
-Delay Int(1000 + 500 * Rnd)
+Call QuitCombat
+*/
+
+//******拖尸撤退练级******
+
+//打手补给
+
+Call Formation(840, 367)
+
+Call SelectPrset(2)
+
+Call deploy(840, 367)
+
+Call deploy(151, 269)
+
+Call StartCombat
+
+Call supply(840, 367)
+
+Call retreat(840, 367)
+
+Call RestartCombat
+
+//换拖尸队练级
+
+Call Formation(840, 367)
+
+Call SelectPrset(1)
+
+Call deploy(840, 367)
+
+Call deploy(151, 269)
+
+Call StartCombat
+
+Call PlanMode(Array(840, 367, 836, 252, 877, 126))
+
+Call waiting("43e0")
+
+Call selectPlan
+
+Call dmRndClick(876,274)
+
+Call dmRndClick(838,403)
+
+Call dmCusRndClick(843, 568, 870, 571)
+
+Call executePlan
+
+Call waiting("43e1")
+
+Call retreat(841,391)
+
+Call RestartCombat
+
+//重退练级
+
+Call deploy(840, 367)
+
+Call deploy(151, 269)
+
+Call StartCombat
+
+Call PlanMode(Array(840, 367, 836, 252, 877, 126))
+
+Call waiting("43e0")
+
+Call selectPlan
+
+Call dmRndClick(876,274)
+
+Call dmRndClick(838,403)
+
+Call dmCusRndClick(843, 568, 870, 571)
+
+Call executePlan
+
+Call waiting("43e1")
+
+Call retreat(841,391)
 
 Call QuitCombat
+
 
 End Sub
 
@@ -933,61 +991,6 @@ Call adjustingFor02(2)
 Call waitingThenEndRound("行动结束022")
 
 Call settlement("结算S")
-
-End Sub
-
-//****************************************************************Battle115**************************************************************
-//****************************************************************Battle115**************************************************************
-//****************************************************************Battle115**************************************************************
-
-
-Sub Battle115
-
-//scaling
-If Form1.Init.Value = 1 Then 
-Form1.Init.Value = 0
-Call scaling
-End If
-
-Call EchelonDeploy(405, 470, 490, 470, 490, 405)
-
-//***********************Restart Resupply***************************
-
-If Resupply = True Then 
-Resupply = False
-
-Call supply(405, 470)
-
-Call retreat(405, 470)
-
-Call RestartCombat
-
-Call EchelonDeploy(405, 470, 490, 470, 490, 405)
-
-End If
-
-//*********************************Battle115*******************************
-
-
-Call Plan6(405, 470, 320, 470, 320, 405, 405, 405, 405, 330, 490, 330)
-
-Call adjustingFor115
-
-Call exchange(490, 405, 490, 470)
-
-
-Call retreat(490, 470)
-
-Reloaded115 = True
-Call EchelonDeploy(405, 550, 490, 470, 490, 550)
-
-Call deploy(490, 405)
-
-Call supply(490, 405)
-
-Call retreat(490, 405)
-
-Call QuitCombat
 
 End Sub
 
@@ -1055,28 +1058,23 @@ End Sub
 //***********************************************************************Preparation***************************************************************************
 //***********************************************************************Preparation***************************************************************************
 
-Sub EchelonDeploy(x, y, m, n, p, q)
+Sub EchelonDeploy(x, y, m, n,p,q)
 
 //Echelon formation
-dm.MoveTo x, y
-dm.LeftClick
-Delay 1000
+Call dmRndClick(x, y)
 Do
 i = 0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
-dm.MoveTo x, y
-dm.LeftClick
-Delay 1000
+Call dmRndClick(x, y)
 End If
-Delay 500
+Delay Int(500 + 500 * Rnd)
 Loop While i = 0
 
-dm.MoveTo 165, 485
-dm.LeftClick
-Delay 2000
+Call dmCusRndClick(135, 484, 256, 509)
+Delay Int(2000+500*Rnd)
 
 //******************TeamExchange**********************
 
@@ -1086,8 +1084,11 @@ i=0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
+Else 
+Call dmCusRndClick(135, 484, 256, 509)
+Delay Int(2000+500*Rnd)
 End If
-Delay 500
+Delay Int(500 + 500 * Rnd)
 Loop While i = 0
 
 //confirm echelon
@@ -1099,17 +1100,10 @@ Else
 Echelon = 2
 End If
 
-If Form1.Mission115.Value = 1 And Resupply = True Then 
-Echelon = 2
-End If
-
-If Form1.Mission115.Value <> 1 Then 
 
 If Echelon = 2 Then 
 //select echelon 2
-dm.MoveTo 90, 180
-dm.LeftClick
-Delay 1000
+Call dmCusRndClick(6, 169, 76, 199)
 End If
 
 //confirm selection
@@ -1119,11 +1113,9 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\选择角色.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
-dm.MoveTo 90, 180
-dm.LeftClick
-Delay 1000
+Call dmCusRndClick(6, 169, 76, 199)
 End If
-Delay 500
+Delay Int(500 + 500 * Rnd)
 Loop While i = 0
 
 //waiting
@@ -1133,9 +1125,9 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
-Delay 500
+Delay Int(500 + 500 * Rnd)
 Loop While i = 0
-
+/*
 //select ELF
 dm.MoveTo 930, 230
 dm.LeftClick
@@ -1189,14 +1181,12 @@ Delay 500
 Loop While i = 0
 
 End If
-
+*/
 Rem rePreset
 
 //select preset
-dm.MoveTo 890, 505
-dm.LeftClick
-Delay 2000
-
+Call dmCusRndClick(888, 510, 1002, 535)
+/*
 //confirm preset
 Do
 i=0
@@ -1217,22 +1207,16 @@ Delay 2000
 End If
 Delay 500
 Loop While i = 0
-
+*/
 //select preset
-dm.MoveTo 980, 195
-dm.LeftClick
-Delay 2000
+Call dmCusRndClick(964, 190, 1012, 240)
 
 If Echelon = 2 Then 
 //select echelon 2
-dm.MoveTo 610, 145
-dm.LeftClick
-Delay 1000
+Call dmCusRndClick(596, 128, 990, 192)
 Else 
 //select echelon 1
-dm.MoveTo 610, 50
-dm.LeftClick
-Delay 1000
+Call dmCusRndClick(595, 27, 992, 98)
 End If
 
 //use preset
@@ -1241,23 +1225,17 @@ i = 0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\套用预设.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
-dm.MoveTo 890, 485
-dm.LeftClick
-Delay 1000
+Call dmCusRndClick(826, 480, 979, 531)
 Else 
 If Echelon = 2 Then 
 //select echelon 2
-dm.MoveTo 610, 145
-dm.LeftClick
-Delay 1000
+Call dmCusRndClick(596, 128, 990, 192)
 Else 
 //select echelon 1
-dm.MoveTo 610, 50
-dm.LeftClick
-Delay 1000
+Call dmCusRndClick(595, 27, 992, 98)
 End If
 End If
-Delay 500
+Delay Int(500 + 500 * Rnd)
 Loop While i = 0
 
 
@@ -1265,25 +1243,19 @@ Loop While i = 0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\强制替换.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Else 
-dm.MoveTo 460, 330
-dm.LeftClick
-Delay 1000
+Call dmCusRndClick(437, 322, 463, 348)
 End If
 
 //confirm exchange
-dm.MoveTo 635, 385
-dm.LeftClick
-Delay 1000
-
+Call dmCusRndClick(605, 383, 698, 419)
 //confirm exchange
 Do
 i=0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\确定.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i=1
-dm.MoveTo 910, 490
-dm.LeftClick
-Delay 1500
+Call dmCusRndClick(876, 477, 985, 536)
+/*
 Else 
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\人形锁定.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then
@@ -1292,8 +1264,9 @@ dm.LeftClick
 Delay 3000
 Goto rePreset
 End If
+*/
 End If
-Delay 500
+Delay Int(500 + 500 * Rnd)
 Loop While i = 0
 
 Do
@@ -1301,15 +1274,12 @@ i=0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\返回.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i=1
-dm.MoveTo 85, 50
-dm.LeftClick
-Delay 1000
+Call dmCusRndClick(9, 13, 95, 60)
+Delay Int(1000 + 500 * Rnd)
 Else 
-dm.MoveTo 910, 490
-dm.LeftClick
-Delay 1500
+Call dmCusRndClick(876, 477, 985, 536)
 End If
-Delay 500
+Delay Int(500 + 500 * Rnd)
 Loop While i = 0
 
 Do
@@ -1318,176 +1288,168 @@ dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp"
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
-dm.MoveTo 85, 50
-dm.LeftClick
-Delay 1000
+Call dmCusRndClick(9, 13, 95, 60)
+Delay Int(1000 + 500 * Rnd)
 End If
-Delay 500
+Delay Int(500 + 500 * Rnd)
 Loop While i = 0
-Delay 1000
-
-If Reloaded115 = True Then 
-Reloaded115 =False
-Goto DeployEnd	
-End If
 
 //******************EchelonDeploy**********************
 
-If Form1.Mission115.Value <> 1 Then 
- 
 If Echelon = 2 Then 
 
 //deploy echelon 1
-dm.MoveTo x, y
-dm.LeftClick
-Delay 1000
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-End If
-Delay 1000
-Loop While i=0
-dm.MoveTo 930, 500
-dm.LeftClick
-Delay 1000
+Call deploy(x, y)
+
 //deploy echelon 2
-dm.MoveTo m, n
-dm.LeftClick
-Delay 1000
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-End If
-Delay 1000
-Loop While i=0
-dm.MoveTo 930, 500
-dm.LeftClick
-Delay 1000
+Call deploy(m, n)
 
 Else 
 
 //deploy echelon 1
-dm.MoveTo m, n
-dm.LeftClick
-Delay 1000
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-End If
-Delay 1000
-Loop While i=0
-dm.MoveTo 930, 500
-dm.LeftClick
-Delay 1000
+Call deploy(m, n)
+
 //deploy echelon 2
-dm.MoveTo x, y
-dm.LeftClick
-Delay 1000
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-End If
-Delay 1000
-Loop While i=0
-dm.MoveTo 930, 500
-dm.LeftClick
-Delay 1000
+Call deploy(x, y)
 
 End If
-End If
 
-If Form1.Mission115.Value = 1 Then 
- 
-//deploy echelon 1
-dm.MoveTo x, y
-dm.LeftClick
-Delay 1000
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-End If
-Delay 1000
-Loop While i=0
-dm.MoveTo 930, 500
-dm.LeftClick
-Delay 1000
-//deploy echelon 2
-dm.MoveTo m, n
-dm.LeftClick
-Delay 1000
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-End If
-Delay 1000
-Loop While i=0
-dm.MoveTo 930, 500
-dm.LeftClick
-Delay 1000
-//deploy echelon 3
-dm.MoveTo p, q
-dm.LeftClick
-Delay 1000
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-End If
-Delay 1000
-Loop While i=0
-dm.MoveTo 930, 500
-dm.LeftClick
-Delay 1000
+Call EnterBattleField
 
+Call StartCombat
+
+End Sub
+
+//********************************************Formation********************************************
+
+Sub Formation(x, y)
+
+//Echelon formation
+Call dmRndClick(x, y)
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+Call dmRndClick(x, y)
 End If
+Delay Int(500 + 500 * Rnd)
+Loop While i = 0
+
+Call dmCusRndClick(135, 484, 256, 509)
+Delay Int(2000+500*Rnd)
+
+//waiting
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+Call dmCusRndClick(135, 484, 256, 509)
+Delay Int(2000+500*Rnd)
+End If
+Delay Int(500 + 500 * Rnd)
+Loop While i = 0
+
+End Sub
+
+
+Sub SelectPrset(Echelon)
+
+//select preset
+Call dmCusRndClick(888, 510, 1002, 535)
+Delay Int(1000 + 500 * Rnd)
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\进图完毕.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\确定.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+Call dmCusRndClick(888, 510, 1002, 535)
+Delay Int(1000 + 500 * Rnd)
+End If
+Delay Int(500 + 500 * Rnd)
+Loop While i = 0
+
+//select preset
+Call dmCusRndClick(964, 190, 1012, 240)
+
+If Echelon = 2 Then 
+//select echelon 2
+Call dmCusRndClick(596, 128, 990, 192)
+Else 
+//select echelon 1
+Call dmCusRndClick(595, 27, 992, 98)
+End If
+
+//use preset
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\套用预设.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Call dmCusRndClick(826, 480, 979, 531)
+Else 
+If Echelon = 2 Then 
+//select echelon 2
+Call dmCusRndClick(596, 128, 990, 192)
+Else 
+//select echelon 1
+Call dmCusRndClick(595, 27, 992, 98)
+End If
+End If
+Delay Int(500 + 500 * Rnd)
+Loop While i = 0
+
+
+//confirm exchange
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\强制替换.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+Else 
+Call dmCusRndClick(437, 322, 463, 348)
+End If
+
+//confirm exchange
+Call dmCusRndClick(605, 383, 698, 419)
+//confirm exchange
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\确定.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i=1
+Call dmCusRndClick(876, 477, 985, 536)
 End If
-Delay 500
+Delay Int(500 + 500 * Rnd)
 Loop While i = 0
-
-//start battle
-dm.MoveTo 810, 496
-dm.LeftClick
-Delay 2000
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回合开始01.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\返回.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
-i = 1
+i=1
+Call dmCusRndClick(9, 13, 95, 60)
+Delay Int(1000 + 500 * Rnd)
 Else 
-Delay 2000
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回合开始01.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-Else
-dm.MoveTo 810, 496
-dm.LeftClick
-Delay 2000
+Call dmCusRndClick(876, 477, 985, 536)
 End If
-End If
-Delay 500
+Delay Int(500 + 500 * Rnd)
 Loop While i = 0
 
-Rem DeployEnd
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\返回.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+Call dmCusRndClick(9, 13, 95, 60)
+Delay Int(1000 + 500 * Rnd)
+Else 
+i=1
+End If
+Delay Int(500 + 500 * Rnd)
+Loop While i = 0
+
 
 End Sub
 
@@ -1739,6 +1701,11 @@ i = 1
 End If
 Delay (500 + Rnd * 500)
 Loop While i = 0
+
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\再派遣确定.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+Call dmCusRndClick(586, 392, 695, 422)
+End If
 
 Call confirmBattleField
 
@@ -2269,8 +2236,6 @@ End Sub
 
 Sub Restore
 
-If Form1.Init.Value = 0 or Resupply = True Then 
-
 If Form1.Restore.Value = 1 Then 
 
 //repair
@@ -2302,7 +2267,7 @@ Goto backhome
 End If
 //select T-dolls
 Call dmCusRndClick(21, 123, 130, 258)
-//Call dmCusRndClick(150, 123, 250, 258)
+Call dmCusRndClick(150, 123, 250, 258)
 //confim
 Call dmCusRndClick(888, 409, 1001, 470)
 Call dmCusRndClick(234, 387, 272, 425)
@@ -2322,7 +2287,6 @@ Rem backhome
 
 Call ReturnToBase
 	
-End If
 End If
 
 End Sub
