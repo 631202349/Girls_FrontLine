@@ -8,9 +8,9 @@ StopHotkey=119
 StopHotkeyMod=0
 RunOnce=1
 EnableWindow=
-MacroID=635dc844-8c79-4c85-90a5-a7aadfec9076
-Description=Beta_Version3.0
-Enable=1
+MacroID=de883e72-677b-4ece-9c97-a10d4fc471d5
+Description=少前脚本张博定制版Ver0_2
+Enable=0
 AutoRun=0
 [Repeat]
 Type=0
@@ -45,7 +45,7 @@ UEsDBBQAAgAIAEw/CkFpA+Qdl5wLAACQDAAGABEAZG0uZGxsVVQNAAcuvyRQ6lw/XKY5UFDs/XlUE8kf
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -110,6 +110,7 @@ Sub main
 
 //set DM plugin
 Set dm = CreateObject("dm.dmsoft")
+
 //bind window
 Call BoundWindow
 
@@ -377,7 +378,7 @@ End Sub
 
 Sub CrashedReloading
 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\少前.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\少前.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 StopThread (ID1)
 Delay 5000
@@ -391,7 +392,7 @@ Arrangement =True
 Delay 18000
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\点击屏幕开始.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\点击屏幕开始.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -407,11 +408,11 @@ Delay 9000
 
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\更新.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\更新.bmp","020202",0.9,0,intX,intY)
 ElseIf intX > 0 And intY > 0 Then
 Call dmRndClick(intX, intY)
 dm.MoveTo intX, intY
@@ -464,28 +465,28 @@ End Sub
 Sub logistics
 
 //logistics support return
-dm_ret = dm.FindPic( 0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\后勤回归.bmp","020202", 0.9,0, intX, intY)
+dm_ret = dm.FindPic( 0, 0, 1366, 768,"F:\按键精灵\按键精灵2014\screen\后勤回归.bmp","020202", 0.9,0, intX, intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(126, 136, 677, 499)
 End If
 Delay 300
 
 //logistics support resend
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\再派遣确定.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\再派遣确定.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(586, 392, 695, 422)
 End If
 Delay 300
 
 //close achievement window
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\成就.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\成就.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(497, 409, 611, 445)
 End If
 Delay 300
 
 //full storehouse
-dm_ret = dm.FindPic(0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\满仓.bmp", "020202", 0.9, 0, intX, intY)
+dm_ret = dm.FindPic(0, 0, 1366, 768,"F:\按键精灵\按键精灵2014\screen\满仓.bmp", "020202", 0.9, 0, intX, intY)
 If intX > 0 And intY > 0 Then 
 
 If Form1.Retire.Value <> 1 Then 
@@ -497,7 +498,7 @@ PauseThread (ID1)
 Call dmRndClick(640, 400)
 Do
 i = 0
-dm_ret = dm.FindPic(0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\满仓.bmp", "020202", 0.9, 0, intX, intY)
+dm_ret = dm.FindPic(0, 0, 1366, 768,"F:\按键精灵\按键精灵2014\screen\满仓.bmp", "020202", 0.9, 0, intX, intY)
 If intX > 0 And intY > 0 Then 
 Call dmRndClick(640, 400)
 Else 
@@ -580,7 +581,7 @@ Delay 3000
 //waiting
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\好友.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\好友.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Delay 2000
@@ -601,7 +602,7 @@ Delay 1000
 //waiting
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\名片.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\名片.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -613,7 +614,7 @@ Delay 3000
 //waiting
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\返回宿舍.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\返回宿舍.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -639,7 +640,7 @@ Delay 3000
 //waiting
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\返回宿舍.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\返回宿舍.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -678,7 +679,7 @@ Delay 6000
 //confirm entry
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\离开宿舍.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\离开宿舍.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -718,7 +719,7 @@ Delay 6000
 //confirm entry
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\离开宿舍.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\离开宿舍.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -740,7 +741,7 @@ Delay 3000
 //wait entry
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\离开宿舍2.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\离开宿舍2.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -813,7 +814,7 @@ Delay 4500
 //select simulation
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 dm.MoveTo 80, 265
@@ -869,7 +870,7 @@ Delay 4500
 //select simulation
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 dm.MoveTo 80, 265
@@ -894,7 +895,7 @@ Delay 1000
 //waiting
 Do
 i=0
-dm_ret = dm.FindPic(0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\任务选择.bmp", "020202", 0.9, 0, intX, intY)
+dm_ret = dm.FindPic(0, 0, 1366, 768,"F:\按键精灵\按键精灵2014\screen\任务选择.bmp", "020202", 0.9, 0, intX, intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -936,7 +937,7 @@ Delay 300
 //confirm plan
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1 
 Else 
@@ -1001,7 +1002,7 @@ Delay 4500
 //select simulation
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 dm.MoveTo 80, 265
@@ -1026,7 +1027,7 @@ Delay 1000
 //waiting
 Do
 i=0
-dm_ret = dm.FindPic(0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\任务选择.bmp", "020202", 0.9, 0, intX, intY)
+dm_ret = dm.FindPic(0, 0, 1366, 768,"F:\按键精灵\按键精灵2014\screen\任务选择.bmp", "020202", 0.9, 0, intX, intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -1083,7 +1084,7 @@ Delay 300
 //confirm plan
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1 
 Else 
@@ -1133,14 +1134,18 @@ Sub BoundWindow
 
 Do
 i = 0
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
+dm_ret = dm.BindWindow(hwnd, "dx2", "windows", "windows", 0)
 If dm_ret = 1 Then 	
 i = 1
 Delay 1000
 Else 
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
+dm_ret = dm.BindWindow(hwnd, "dx2", "windows", "windows", 0)
 Delay 1000
 End If
+
+//TracePrint dm_ret
+//TracePrint dm.GetLastError()
+
 Delay 1000
 Loop While i = 0
 
@@ -1226,14 +1231,14 @@ Call dmCusRndClick(667, 353, 805, 441)
 Delay 2000
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\战斗页面.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 If Form1.Init.Value = 1 Then 
 Call dmCusRndClick(59, 111, 181, 159)
 End If
 Else 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(667, 353, 805, 441)
 Delay 2000
@@ -1319,7 +1324,7 @@ Call dmCusRndClick(541,440,646,481)
 Delay Int(Rnd * 500 + 500)
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\作战设置.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\作战设置.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(541,440,646,481)
 Else 
@@ -1335,7 +1340,7 @@ End Sub
 
 Sub terminateCombat
 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\终止作战.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\终止作战.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(418, 456, 524, 498)
 Delay 3000
@@ -1353,7 +1358,7 @@ Sub confirmBattleField
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回合.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\回合.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -1372,7 +1377,7 @@ Sub EchelonExchangeDeploy(x, y, m, n)
 //waiting
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\阵型预设.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -1381,7 +1386,7 @@ Loop While i = 0
 
 //confirm echelon
 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\选择角色.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\选择角色.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Echelon = 1
 Else 
@@ -1397,7 +1402,7 @@ End If
 //confirm selection
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\选择角色.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\选择角色.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -1409,7 +1414,7 @@ Loop While i = 0
 //waiting
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\阵型预设.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -1420,7 +1425,7 @@ Loop While i = 0
 Call dmCusRndClick(886, 174, 991, 319)
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\妖精锁定.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\妖精锁定.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -1431,7 +1436,7 @@ Loop While i = 0
 
 /*
 If ElfOrder = True And Form1.Mission02.Value=1 Then 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\搜救妖精1.bmp|D:\按键精灵\按键精灵2014\screen\搜救妖精2.bmp|D:\按键精灵\按键精灵2014\screen\搜救妖精3.bmp|D:\按键精灵\按键精灵2014\screen\搜救妖精4.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\搜救妖精1.bmp|F:\按键精灵\按键精灵2014\screen\搜救妖精2.bmp|F:\按键精灵\按键精灵2014\screen\搜救妖精3.bmp|F:\按键精灵\按键精灵2014\screen\搜救妖精4.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 dm.MoveTo intX, intY
 dm.LeftClick 
@@ -1454,11 +1459,11 @@ Call dmCusRndClick(172, 100, 273, 212)
 //waiting
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\阵型预设.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\阵型预设.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\妖精锁定.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\妖精锁定.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 dm.LeftClick 
 End If
@@ -1486,7 +1491,7 @@ Sub Formation(x, y)
 Call dmRndClick(x, y)
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -1501,7 +1506,7 @@ Delay Int(2000+500*Rnd)
 //waiting
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(135, 484, 256, 509)
 Delay Int(2000+500*Rnd)
@@ -1522,7 +1527,7 @@ Delay Int(1000 + 500 * Rnd)
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\确定.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\确定.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -1546,7 +1551,7 @@ End If
 //use preset
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\套用预设.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\套用预设.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Call dmCusRndClick(826, 480, 979, 531)
@@ -1564,7 +1569,7 @@ Loop While i = 0
 
 
 //confirm exchange
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\强制替换.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\强制替换.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Else 
 Call dmCusRndClick(437, 322, 463, 348)
@@ -1575,7 +1580,7 @@ Call dmCusRndClick(605, 383, 698, 419)
 //confirm exchange
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\确定.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\确定.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i=1
 Call dmCusRndClick(876, 477, 985, 536)
@@ -1585,7 +1590,7 @@ Loop While i = 0
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\返回.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\返回.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i=1
 Call dmCusRndClick(9, 13, 95, 60)
@@ -1598,7 +1603,7 @@ Loop While i = 0
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\返回.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\返回.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(9, 13, 95, 60)
 Delay Int(1000 + 500 * Rnd)
@@ -1637,7 +1642,7 @@ dm.LeftClick
 Delay 300
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\计划on.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1 
 Else 
@@ -1655,7 +1660,7 @@ Sub executePlan
 Call dmCusRndClick(933, 518, 1041, 565)
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划模式.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\计划模式.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(933, 518, 1041, 565)
 Else 
@@ -1675,7 +1680,7 @@ dm.LeftClick
 Delay (1000 + Rnd * 500)
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -1689,7 +1694,7 @@ Call dmCusRndClick(922, 444, 1059, 484)
 
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(922, 444, 1059, 484)
 Else 
@@ -1710,7 +1715,7 @@ Call dmRndClick(x, y)
 Delay (1000 + Rnd * 500)
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -1724,7 +1729,7 @@ Call dmCusRndClick(741, 500, 854, 535)
 
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(741, 500, 854, 535)
 Else 
@@ -1733,7 +1738,7 @@ End If
 Delay (500 + Rnd * 500)
 Loop While i = 0
 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\再派遣确定.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\再派遣确定.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(586, 392, 695, 422)
 End If
@@ -1752,7 +1757,7 @@ Call dmRndClick(x, y)
 Delay (1000 + Rnd * 500)
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -1766,7 +1771,7 @@ Call dmCusRndClick(933, 513, 1045, 549)
 
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(933, 513, 1045, 549)
 Else 
@@ -1805,7 +1810,7 @@ Sub waiting(PicName)
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\" & PicName & ".bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\" & PicName & ".bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -1818,7 +1823,7 @@ Sub waitingThenEndRound(PicName)
 
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\" & PicName &".bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\" & PicName &".bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -1830,7 +1835,7 @@ Delay Int(1000 + 500 * Rnd)
 
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\" & PicName &".bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\" & PicName &".bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(887, 504, 992, 551)
 Delay Int(1000 + 500 * Rnd)
@@ -1850,7 +1855,7 @@ Call dmCusRndClick(853, 505, 1050, 572)
 Delay 2000
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回合开始01.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\回合开始01.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -1870,7 +1875,7 @@ Call dmCusRndClick(264, 26, 331, 73)
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\终战.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\终战.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -1883,7 +1888,7 @@ Call dmCusRndClick(623, 390, 735, 423)
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\终战.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\终战.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(623, 390, 735, 423)
 Else 
@@ -1904,7 +1909,7 @@ Call dmCusRndClick(264, 26, 331, 73)
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\重战.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\重战.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
@@ -1917,7 +1922,7 @@ Call dmCusRndClick(382, 391, 492, 421)
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\终战.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\终战.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(382, 391, 492, 421)
 Else 
@@ -1957,7 +1962,7 @@ End Sub
 
 Sub UsingElfOrder(x, y)
 
-dm_ret = dm.FindPic( 0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\空指令.bmp","020202", 0.9,0, intX, intY)
+dm_ret = dm.FindPic( 0, 0, 1366, 768,"F:\按键精灵\按键精灵2014\screen\空指令.bmp","020202", 0.9,0, intX, intY)
 If intX > 0 And intY > 0 Then 
 ElfOrder = False
 End If
@@ -1982,7 +1987,7 @@ For times
 
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\暂停.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\暂停.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 End If
@@ -2032,7 +2037,7 @@ Delay Int(3000 + 1000 * Rnd)
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\" & PicName & ".bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\" & PicName & ".bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Delay 1000
@@ -2061,7 +2066,7 @@ Sub Retire
 
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\工厂.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\工厂.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i=1
 End If
@@ -2080,7 +2085,7 @@ Else
 Call dmCusRndClick(223, 130, 335, 186)
 End If
 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回收拆解.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\回收拆解.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Goto backbase
 End If
@@ -2100,7 +2105,7 @@ Else
 Call dmCusRndClick(223, 130, 335, 186)
 End If
 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\回收拆解.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\回收拆解.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Goto backbase
 End If
@@ -2153,11 +2158,11 @@ Call dmCusRndClick(678, 156, 807, 212)
 //select T-dolls
 Do
 i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\修复.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\修复.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(678, 156, 807, 212)
 End If
@@ -2171,7 +2176,7 @@ Call dmCusRndClick(205,154,593,347)
 Delay Int(1500 + 500 * Rnd)
 //confirm
 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\修复.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\修复.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Goto backhome
 End If
@@ -2185,7 +2190,7 @@ Call dmCusRndClick(684, 383, 791, 419)
 //repair complete
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\修复完成.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\修复完成.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i=1
 Call dmCusRndClick(451, 396, 567, 432)
@@ -2209,16 +2214,16 @@ Call dmCusRndClick(62, 28, 126, 72)
 Delay Int(2000 + 1000 * Rnd)
 Do
 i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i = 1
 Else 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\UID.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\UID.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(110, 90, 433, 380)
 Delay Int(2000 + 1000 * Rnd)
 Else 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\分享.bmp","020202",0.9,0,intX,intY)
+dm_ret = dm.FindPic( 0,0,1366,768,"F:\按键精灵\按键精灵2014\screen\分享.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 Call dmCusRndClick(234, 124, 294, 155)
 End If
