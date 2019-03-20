@@ -9,7 +9,7 @@ StopHotkeyMod=0
 RunOnce=1
 EnableWindow=
 MacroID=de883e72-677b-4ece-9c97-a10d4fc471d5
-Description=Beta_Version2.0_自动备份
+Description=Beta_Version3.0
 Enable=1
 AutoRun=0
 [Repeat]
@@ -45,7 +45,7 @@ UEsDBBQAAgAIAEw/CkFpA+Qdl5wLAACQDAAGABEAZG0uZGxsVVQNAAcuvyRQ6lw/XKY5UFDs/XlUE8kf
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -68,10 +68,8 @@ SimulateBattle = True
 Analysis = True
 
 //Record
-DimEnv Rounds, CompleteTimes, RestartTimes, counter, temp
-Rounds = 0
+Dimenv counter, temp, CompleteTimes
 CompleteTimes = 0
-RestartTimes = 0
 counter = 0
 
 //Time Management
@@ -86,7 +84,7 @@ Set dm = CreateObject("dm.dmsoft")
 //hwnd begins at coordinate（171，68）
 Dimenv hwnd
 hwnd = dm.FindWindow("","少女前线") 
-hwnd = dm.GetWindow(hwnd,1)
+hwnd = dm.GetWindow(hwnd, 1)
 
 //main bound
 Call BoundWindow
@@ -102,313 +100,168 @@ Set dm = CreateObject("dm.dmsoft")
 dm_ret = dm.UnBindWindow()
 End Sub
 
-//********************************************************************Main Thread********************************************************************
-//********************************************************************Main Thread********************************************************************
-//********************************************************************Main Thread********************************************************************
+//************************************************************Main Thread*******************************************************************
+//************************************************************Main Thread*******************************************************************
+//************************************************************Main Thread*******************************************************************
+//************************************************************Main Thread*******************************************************************
+//************************************************************Main Thread*******************************************************************
 
 Sub main
 
 //set DM plugin
 Set dm = CreateObject("dm.dmsoft")
-
 //bind window
 Call BoundWindow
 
 Do
 
-Call Combat 
+Call Combat
 
-//Call Simulation
-
-//Call Domitory
-
-Loop
-
-End Sub
-
-//********************************************************************Assistant Thread*****************************************************************************
-//********************************************************************Assistant Thread*****************************************************************************
-//********************************************************************Assistant Thread*****************************************************************************
-
-Sub Assistant
-
-Do
-
-//listener
-//Call Listener
-//Delay 300
-
-//CrashedReloading
-Call CrashedReloading
-Delay 300
-
-//StuckedReload
-If Form1.Peace.Value <> 1 Then 
-Call StuckedReload
-Delay 300
-End If
-
-//logistics
-Call logistics
-Delay 300
-
-Loop
-
-End Sub
-
-
-//************************************************************Listener************************************************************
-//************************************************************Listener************************************************************
-//************************************************************Listener************************************************************
-
-Sub Listener
-
-//listen whatever care for
-Form1.Label4.Caption = "CompleteTimes : " & CompleteTimes
-Form1.Label5.Caption = "RestartTimes : " & RestartTimes
-
-//switch toggle
-MyHour = Hour(Now)
-
-If MyHour = 2 or MyHour = 10 or MyHour = 16 Then 
-
-CollectBattery = False
-
-ElseIf MyHour = 7 or MyHour = 15 or MyHour = 23 Then
-
-Analysis = False
-
-ElseIf MyHour = 7 Or MyHour = 9 Or MyHour = 15 Or MyHour = 21 Or MyHour = 23 Then
-
-SimulateBattle = False
-
-End If
-
-End Sub
-
-
-//*******************Use DM plugin to bind window*******************
-
-Sub BoundWindow
-
-Do
-i = 0
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-If dm_ret = 1 Then 	
-i = 1
-Delay 1000
-Else 
-dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
-Delay 1000
-End If
-Delay 1000
-Loop While i = 0
-
-End Sub
-
-//******************* DM Click*******************
-
-Sub dmCusRndClick(x, y, m, n)
-
-dm.MoveTo Int (Rnd * (m-x) + x), Int (Rnd * (n-y) + y)
-dm.LeftClick
-Delay Int(Rnd * 1000 + 500)
-
-End Sub
-
-Sub dmRndClick(x, y)
-
-dm.MoveTo Int (Rnd * 30 + x), Int (Rnd * 30 + y)
-dm.LeftClick
-Delay Int(Rnd * 1000 + 500)
-
-End Sub
-
-Sub dmCusRndMove(x, y, m, n)
-
-dm.MoveTo Int (Rnd * (m-x) + x), Int (Rnd * (n-y) + y)
-Delay Int(Rnd * 100 + 100)
-
-End Sub
-
-Sub dmRndMove(x, y)
-
-dm.MoveTo Int (Rnd * 30 + x), Int (Rnd * 30 + y)
-Delay Int(Rnd * 100 + 100)
-
-End Sub
-
-Sub WheelUp(times)
-
-For times
-dm.WheelUp
-Delay (300 + Rnd * 100)
-Next
-End Sub
-
-Sub WheelDown(times)
-For times
-dm.WheelDown 
-Delay (300 + Rnd * 100)
-Next
-End Sub
-
-//************************************************************CrashedReloading************************************************************
-//************************************************************CrashedReloading************************************************************
-//************************************************************CrashedReloading************************************************************
-
-Sub CrashedReloading
-
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\少前.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-StopThread (ID1)
-Delay 5000
-dm.MoveTo 160, 130
-dm.LeftClick
-
-If Form1.Custom.Value = 1 Then 
-Form1.Peace.Value = 0
-Form1.Custom.Value = 0
-End If
-
-Form1.Init.Value = 1
-Resupply = True
-Arrangement =True
-Rounds = 0
-RestartTimes = RestartTimes + 1
-
-Delay 18000
-Do
-i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\点击屏幕开始.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-Else 
-dm.MoveTo 160, 130
-dm.LeftClick
-Delay 18000
-End If
-Loop While i = 0
-
-Call dmRndClick(540, 380)
-
-Delay 9000
-
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\更新.bmp","020202",0.9,0,intX,intY)
-ElseIf intX > 0 And intY > 0 Then
-Call dmRndClick(intX, intY)
-dm.MoveTo intX, intY
-Delay 30000
-
-Else 
-Call dmRndClick(540, 380)
-Delay 3000
-End If
-Loop While i = 0
-
-ID1 = BeginThread(main)
-
-End If
-End Sub
-
-//************************************************************StuckedReload************************************************************
-//************************************************************StuckedReload************************************************************
-//************************************************************StuckedReload************************************************************
-
-Sub StuckedReload
-
-If counter = 0 Then 
-temp = CompleteTimes
-End If
-
-counter = counter + 1
-
-If counter = 450 Then 
-counter = 0
-
-If temp = CompleteTimes Then 
-
-If Form1.StuckRestart.Value=1 Then 
-MoveTo 570, 50
-LeftClick 1
-Else
-MessageBox "stucked!"
-End If
-
-End If
-End If
-
-End Sub
-
-//************************************************************logistics************************************************************
-//************************************************************logistics************************************************************
-//************************************************************logistics************************************************************
-
-Sub logistics
-
-//logistics support return
-dm_ret = dm.FindPic( 0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\后勤回归.bmp","020202", 0.9,0, intX, intY)
-If intX > 0 And intY > 0 Then 
-Call dmCusRndClick(126, 136, 677, 499)
-End If
-Delay 300
-
-//logistics support resend
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\再派遣确定.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-Call dmCusRndClick(586, 392, 695, 422)
-End If
-Delay 300
-
-//close achievement window
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\成就.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-Call dmCusRndClick(497, 409, 611, 445)
-End If
-Delay 300
 /*
-//daily bonus
-If MyHour = 0 Then 
-dm_ret = dm.FindPic(0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\每日奖励.bmp", "020202", 0.9, 0, intX, intY)
-If intX > 0 And intY > 0 Then 
-Call dmRndClick(100, 45)
-Delay 9000
-Call dmRndClick(100, 45)
-Delay 6000
-Call dmRndClick(525, 405)
-Delay 3000
-Call dmRndClick(60, 60)
-Delay 3000
-CompleteTimes = CompleteTimes + 1
-End If
-Delay 300
-End If
+Call Simulation
+Call Domitory
 */
-//full storehouse
 
-dm_ret = dm.FindPic(0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\满仓.bmp", "020202", 0.9, 0, intX, intY)
-If intX > 0 And intY > 0 Then 
-PauseThread (ID1)
-Call dmRndClick(640, 400)
-Call Retire
-Call EnterBattleField
-ContinueThread (ID1)
-End If
-Delay 300
+Loop
 
 End Sub
 
-//************************************************************Main Thread subroutine*******************************************************************
-//************************************************************Main Thread subroutine*******************************************************************
-//************************************************************Main Thread subroutine*******************************************************************
-//************************************************************Main Thread subroutine*******************************************************************
-//************************************************************Main Thread subroutine*******************************************************************
+
+//************************************************Battle************************************************
+//************************************************Battle************************************************
+//************************************************Battle************************************************
+
+Sub Battle
+
+If Form1.Chapter.ListIndex = 0 And Form1.Difficult.ListIndex = 0 And Form1.Mission.ListIndex = 1 Then 
+
+Call Battle02
+
+ElseIf Form1.Chapter.ListIndex = 4 And Form1.Difficult.ListIndex = 1 And Form1.Mission.ListIndex = 2 Then
+
+Call Battle43e
+
+Else 
+
+MessageBox "关卡未定义"
+
+End If
+
+End Sub
+
+
+//****************************************************************Battle43e**************************************************************
+//****************************************************************Battle43e**************************************************************
+//****************************************************************Battle43e**************************************************************
+
+Sub Battle43e
+
+If Form1.Init.Value = 1 Then 
+Call scaling
+Form1.Init.Value = 0
+End If
+
+//******拖尸通关练级******
+
+Rem Beginning
+
+Call Formation(151, 269)
+
+Call EchelonExchangeDeploy(840, 367,151, 269)
+
+Call StartCombat
+
+Call supply(151, 269)
+
+If Resupply = True Then 
+Call retreat(151, 269)
+Call RestartCombat
+Resupply = False
+Goto Beginning
+End If
+
+Call selectPlan
+
+Call dmRndClick(840, 367)
+
+Call dmRndClick(836, 252)
+
+Call dmRndClick(877, 126)
+
+Call slideUp(9)
+
+Call dmRndClick(809, 346)
+
+Call dmRndClick(813, 168)
+
+Call executePlan
+
+Call waitingThenEndRound("43e2")
+
+Call settlement("43es")
+
+End Sub
+
+//****************************************************************Battle02**************************************************************
+//****************************************************************Battle02**************************************************************
+//****************************************************************Battle02**************************************************************
+
+Sub Battle02
+/*
+//confirm Elf Order
+dm_ret = dm.FindPic( 0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\空指令.bmp","020202", 0.9,0, intX, intY)
+If intX > 0 And intY > 0 Then 
+ElfOrder = False
+Else 
+ElfOrder = True
+End If
+
+Call EchelonDeploy(75, 280, 510, 280, 0, 0)
+
+//*********************************Battle02*******************************
+
+Call supply(100, 270)
+
+If Resupply = True Then 
+Resupply = False
+
+Call retreat(100, 270)
+
+Call RestartCombat
+
+Call EchelonDeploy(75, 280, 510, 280, 0, 0)
+
+Call supply(100, 270)
+
+Delay 2000 
+
+End If
+
+Call UsingElfOrder(510, 280)
+
+Call PlanFor02firstRound
+
+Call adjustingFor02(3)
+
+Call waitingThenEndRound("行动结束021")
+
+Call waiting("回合开始02")
+
+Delay 6000
+
+Call UsingElfOrder(520, 280)
+
+Call Plan3(520, 280, 810, 280, 970, 315)
+
+Call adjustingFor02(2)
+
+Call waitingThenEndRound("行动结束022")
+
+Call settlement("结算S")
+*/
+End Sub
+
+
 
 //************************************************Combat************************************************
 //************************************************Combat************************************************
@@ -419,15 +272,17 @@ Sub Combat
 If Form1.Peace.Value <> 1 Then 
 
 If Arrangement = True Then 
-Call EnterBattleField
+Call RestartTerminateCombat
+Call Restore
 Arrangement = False
 End If
 
-If Resupply = True Then 
-Call Restore
+If IsNumeric(Form1.RepeatTimes.Text) And Form1.RepeatTimes.Text > 0 Then 
+Else 
+MessageBox "你TM会不会数数？"
 End If
 
-For 4
+For Form1.RepeatTimes.Text
 
 Call EnterBattleField
 
@@ -443,45 +298,29 @@ End If
 
 End Sub
 
-//************************************************Battle************************************************
-
-Sub Battle
-
-If Form1.Mission81N.Value = 1 Then 
-Call Battle81N
-
-ElseIf Form1.Mission32.Value = 1 Then
-Call Battle32
-
-ElseIf Form1.Mission35.Value = 1 Then
-Call Battle35
-
-ElseIf Form1.Mission43E.Value = 1 Then
-Call Battle43e
-
-ElseIf Form1.Mission02.Value = 1 Then
-Call Battle02
-
-ElseIf Form1.Mission104E.Value = 1 Then
-Call Battle104e
-
-End If
-
-End Sub
 
 //**************************************************************Enter BattleField************************************************************
 //**************************************************************Enter BattleField************************************************************
 //**************************************************************Enter BattleField************************************************************
-
 
 Sub EnterBattleField
 
 Call EnterCombat
 
-Call SelectMission
+Call LocateMission
 
-//Call ConfirmMission
+Call EnterMission
 
+End Sub
+
+Sub RestartTerminateCombat
+
+Call EnterCombat
+
+Call LocateMission
+
+Call terminateCombat	
+	
 End Sub
 
 //**************************************************************EnterCombat************************************************************
@@ -512,131 +351,75 @@ End Sub
 
 //**************************************************************SelectMission************************************************************
 
-Sub SelectMission
+Sub LocateMission
 
-//chapter,difficulty,mission
 
-If Form1.Mission81N.Value = 1 Then 
 If Form1.Init.Value = 1 Then 
-Call dmCusRndMove(207, 110, 290, 549)
-Call WheelDown(4)
-Delay 1000
-dm.MoveTo 205, 230
-dm.LeftClick
-Delay 300
-dm.MoveTo 970, 152
-dm.LeftClick
-Delay 1000
-End If
-dm.MoveTo 910, 230
-dm.LeftClick
-Delay 1500
 
+Call SelectChapter(Form1.Chapter.ListIndex)
 
-ElseIf Form1.Mission32.Value = 1 Then 
-If Form1.Init.Value = 1 Then 
-Call dmCusRndMove(207, 110, 290, 549)
-Call WheelUp(3)
-Call dmCusRndClick(205, 347, 298, 401)
-Call dmCusRndClick(752,125, 824,167)
-End If
-Call dmCusRndClick(396, 304, 1037, 350)
-
-
-ElseIf Form1.Mission35.Value = 1 Then 
-If Form1.Init.Value = 1 Then 
-Call dmCusRndMove(207, 110, 290, 549)
-Call WheelUp(3)
-Call dmCusRndClick(205, 347, 298, 401)
-Call dmCusRndClick(752,125, 824,167)
-End If
-Call dmCusRndClick(358, 566, 900, 572)
-
-
-ElseIf Form1.Mission43E.Value = 1 Then 
-If Form1.Init.Value = 1 Then 
-Call dmCusRndMove(207, 110, 290, 549)
-Call WheelUp(3)
-Call dmCusRndClick(162, 416, 246, 467)
-Call dmCusRndClick(845, 128, 914, 165)
-Call dmCusRndClick(371, 384, 971, 436)
-Call ConfirmMission
-End If
-Call dmCusRndClick(371, 384, 971, 436)
-Call dmCusRndClick(541,440,646,481)
-Delay Int(Rnd * 500 + 500)
-Do
-i=0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\作战设置.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-Call dmCusRndClick(541,440,646,481)
-Else 
-i = 1
-End If
-Delay Int(500 + 300 * Rnd)
-Loop While i = 0
-Call confirmBattleField
-
-
-ElseIf Form1.Mission02.Value = 1 Then
-If Form1.Init.Value = 1 Then 
-Form1.Init.Value = 0
-Call dmCusRndMove(207, 110, 290, 549)
-Call WheelUp(3)
-dm.MoveTo 175, 100
-dm.LeftClick
-Delay 1000
-End If
-Call dmCusRndClick(396,304, 1037,350)
-
-ElseIf Form1.Mission104E.Value = 1 Then
-If Form1.Init.Value = 1 Then 
-Call dmCusRndMove(207, 110, 290, 549)
-Call WheelDown(5)
-dm.MoveTo 175, 400
-dm.LeftClick
-Delay 1000
-dm.MoveTo 880, 150
-dm.LeftClick
-Delay 1000
-End If
-dm.MoveTo 580, 500
-dm.LeftClick
-Delay 1500
+Call SelectDifficulty(Form1.Difficulty.ListIndex)
 
 End If
 
-Delay Int(Rnd * 500 + 500)
+Call Selectmission(Form1.Mission.List)
 
 End Sub
 
-//**************************************************************ConfirmMission************************************************************
+Sub SelectChapter(chap)
 
-Sub ConfirmMission
-
-If Form1.Mission81N.Value = 1 Then 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\81n.bmp","020202",0.9,0,intX,intY)
-
-ElseIf Form1.Mission32.Value = 1 Then
-dm_ret = dm.FindPic(0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\32.bmp", "020202", 0.9, 0, intX, intY)
-
-ElseIf Form1.Mission35.Value = 1 Then
-dm_ret = dm.FindPic(0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\35.bmp", "020202", 0.9, 0, intX, intY)
-
-ElseIf Form1.Mission43E.Value = 1 Then
-dm_ret = dm.FindPic(0, 0, 1366, 768, "D:\按键精灵\按键精灵2014\screen\43e.bmp", "020202", 0.9, 0, intX, intY)
-
-ElseIf Form1.Mission02.Value = 1 Then
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\02.bmp","020202",0.9,0,intX,intY)
-
-ElseIf Form1.Mission104E.Value = 1 Then
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\104e.bmp","020202",0.9,0,intX,intY)
+Call dmCusRndMove(207, 110, 290, 549)
+If chap < 6 Then 
+Call WheelUp(5)
+Else
+Call WheelDown(5)
 End If
 
-If intX > 0 And intY > 0 Then 
-If Arrangement = True Then 
-Call terminateCombat
+Delay Int(200 + 100 * Rnd)
+
+If chap < 6 Then 
+Call dmCusRndClick(165, 95 + 80 * chap, 245, 135 + 80 * chap)
+ElseIf chap = 6 Then
+Call dmCusRndClick(165, 85, 245, 100)
 Else 
+Call dmCusRndClick(165, 130 + 80 * (chap - 7), 245, 170 + 80 * (chap - 7))
+End If
+
+End Sub
+
+Sub SelectDifficulty(Difficulty)
+
+If Difficulty = 0 Then 
+Call dmCusRndClick(755, 130, 820, 170)
+
+ElseIf Difficulty = 1 Then
+Call dmCusRndClick(850, 130, 915, 170)
+
+Else 
+Call dmCusRndClick(940, 130, 1005, 170)
+End If
+
+End Sub
+
+Sub SelectMission(Mission)
+
+If Mission < 4 Then 
+Call dmCusRndClick(350, 200 + 90 * Mission, 950, 210 + 90 * Mission)
+
+Else 
+Call WheelDown(5)
+Delay Int(200 + 100 * Rnd)
+
+Call dmCusRndClick(350, 360 + 90 * (Mission - 4), 950, 410 + 90 * (Mission - 4))
+
+End If
+
+End Sub
+
+//**************************************************************EnterMission************************************************************
+
+Sub EnterMission
+
 Call dmCusRndClick(541,440,646,481)
 Delay Int(Rnd * 500 + 500)
 Do
@@ -650,12 +433,6 @@ End If
 Delay Int(500 + 300 * Rnd)
 Loop While i = 0
 Call confirmBattleField
-End If
-Else 
-Call dmCusRndClick(151, 58, 219, 89)
-Form1.Init.Value = 1
-Call SelectMission
-End If
 
 End Sub
 
@@ -693,413 +470,7 @@ Loop While i = 0
 End Sub
 
 
-//****************************************************************Battle81N**************************************************************
-//****************************************************************Battle81N**************************************************************
-//****************************************************************Battle81N**************************************************************
-
-
-Sub Battle81N
-
-//scaling
-If Form1.Init.Value = 1 Then 
-Form1.Init.Value = 0
-Call scaling
-End If
-
-//Call EchelonDeploy(225, 85, 180, 430, 0, 0)
-
-//*****************************Restart Resupply*********************************
-If Resupply = True Then 
-//slide up map
-dm.MoveTo 529,295
-For 2
-dm.WheelUp
-Delay 500
-Next
-Delay 1500
-
-Call supply(200, 100)
-
-Call retreat(200, 100)
-
-Call RestartCombat
-
-Resupply = False
-
-//Call EchelonDeploy(225, 85, 180, 430, 0, 0)
-
-End If
-
-//*********************************Battle81N*******************************
-
-Call Plan6(150,445,235,350,250,235,125,320,110,175,260,145)
-
-Delay 60000
-
-Call waiting("行动结束81n")
-
-Call supply(200, 100)
-
-Call retreat(200, 100)
-
-Delay 3000
-
-Call deployE3(200, 100)
-
-Call exchange(250, 205, 200, 100)
-
-Call retreat(200, 100)
-
-Call QuitCombat
-
-End Sub
-
-//****************************************************************Battle32**************************************************************
-//****************************************************************Battle32**************************************************************
-//****************************************************************Battle32**************************************************************
-
-Sub Battle32
-
-//scaling
-If Form1.Init.Value = 1 Then 
-Form1.Init.Value = 0
-Call scaling
-End If
-
-Call deploy(160, 268)
-
-Call deploy(861, 356)
-
-Call StartCombat
-
-Call supply(160, 268)
-
-Call slideUp(5)
-
-Call PlanMode(Array(158, 412, 265, 273, 391, 190))
-
-Call waiting("行动结束320")
-
-Call PlanMode(Array(391, 190, 262, 272, 157, 409))
-
-Call waiting("行动结束321")
-
-Call retreat(159, 407)
-
-Delay Int(1000 + 500 * Rnd)
-
-Call QuitCombat
-
-End Sub
-
-//****************************************************************Battle35**************************************************************
-//****************************************************************Battle35**************************************************************
-//****************************************************************Battle35**************************************************************
-
-Sub Battle35
-
-//scaling
-If Form1.Init.Value = 1 Then 
-Form1.Init.Value = 0
-Call scaling
-End If
-
-Call deploy(690,412)
-
-Call deploy(311,315)
-
-Call StartCombat
-
-Call supply(693,374)
-
-Call PlanMode(Array(692, 370, 667, 283, 517, 177, 656, 162, 697, 98))
-
-Call waitingThenEndRound("350")
-
-Call settlement("351")
-
-End Sub
-
-//****************************************************************Battle43e**************************************************************
-//****************************************************************Battle43e**************************************************************
-//****************************************************************Battle43e**************************************************************
-
-Sub Battle43e
-
-//scaling
-If Form1.Init.Value = 1 Then 
-Form1.Init.Value = 0
-Call scaling
-End If
-
-/*
-//******全薪撤退练级******
-Call deploy(840, 367)
-
-Call deploy(151, 269)
-
-Call StartCombat
-
-Call supply(840, 367)
-
-Call PlanMode(Array(840, 367, 836, 252, 877, 126))
-
-Call waiting("43e0")
-
-Call selectPlan
-
-Call dmRndClick(876,274)
-
-Call dmRndClick(838,403)
-
-Call dmCusRndClick(843, 568, 870, 571)
-
-Call executePlan
-
-Call waiting("43e1")
-
-Call retreat(841,391)
-
-Call QuitCombat
-*/
-/*
-//******拖尸撤退练级******
-
-//打手补给
-
-Call Formation(840, 367)
-
-Call SelectPrset(2)
-
-Call deploy(840, 367)
-
-Call deploy(151, 269)
-
-Call StartCombat
-
-Call supply(840, 367)
-
-Call retreat(840, 367)
-
-Call RestartCombat
-
-//换拖尸队练级
-
-Call Formation(840, 367)
-
-Call SelectPrset(1)
-
-Call deploy(840, 367)
-
-Call deploy(151, 269)
-
-Call StartCombat
-
-Call PlanMode(Array(840, 367, 836, 252, 877, 126))
-
-Call waiting("43e0")
-
-Call selectPlan
-
-Call dmRndClick(876,274)
-
-Call dmRndClick(838,403)
-
-Call dmCusRndClick(843, 568, 870, 571)
-
-Call executePlan
-
-Call waiting("43e1")
-
-Call retreat(841,391)
-
-Call RestartCombat
-
-//重退练级
-
-Call deploy(840, 367)
-
-Call deploy(151, 269)
-
-Call StartCombat
-
-Call PlanMode(Array(840, 367, 836, 252, 877, 126))
-
-Call waiting("43e0")
-
-Call selectPlan
-
-Call dmRndClick(876,274)
-
-Call dmRndClick(838,403)
-
-Call dmCusRndClick(843, 568, 870, 571)
-
-Call executePlan
-
-Call waiting("43e1")
-
-Call retreat(841,391)
-
-Call QuitCombat
-*/
-
-//******拖尸通关练级******
-
-Call Formation(840, 367)
-
-Call EchelonExchangeDeploy(840, 367,151, 269)
-
-Call StartCombat
-
-Call supply(151, 269)
-
-Call selectPlan
-
-Call dmRndClick(840, 367)
-
-Call dmRndClick(836, 252)
-
-Call dmRndClick(877, 126)
-
-Call slideUp(9)
-
-Call dmRndClick(809, 346)
-
-Call dmRndClick(813, 168)
-
-Call executePlan
-
-Call waitingThenEndRound("43e2")
-
-Call settlement("43es")
-
-End Sub
-
-
-//****************************************************************Battle02**************************************************************
-//****************************************************************Battle02**************************************************************
-//****************************************************************Battle02**************************************************************
-
-
-Sub Battle02
-
-//confirm Elf Order
-dm_ret = dm.FindPic( 0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\空指令.bmp","020202", 0.9,0, intX, intY)
-If intX > 0 And intY > 0 Then 
-ElfOrder = False
-Else 
-ElfOrder = True
-End If
-
-//Call EchelonDeploy(75, 280, 510, 280, 0, 0)
-
-//*********************************Battle02*******************************
-
-Call supply(100, 270)
-
-If Resupply = True Then 
-Resupply = False
-
-Call retreat(100, 270)
-
-Call RestartCombat
-
-//Call EchelonDeploy(75, 280, 510, 280, 0, 0)
-
-Call supply(100, 270)
-
-Delay 2000 
-
-End If
-
-Call UsingElfOrder(510, 280)
-
-Call PlanFor02firstRound
-
-Call adjustingFor02(3)
-
-Call waitingThenEndRound("行动结束021")
-
-Call waiting("回合开始02")
-
-Delay 6000
-
-Call UsingElfOrder(520, 280)
-
-Call Plan3(520, 280, 810, 280, 970, 315)
-
-Call adjustingFor02(2)
-
-Call waitingThenEndRound("行动结束022")
-
-Call settlement("结算S")
-
-End Sub
-
-
-//****************************************************************Battle104e**************************************************************
-//****************************************************************Battle104e**************************************************************
-//****************************************************************Battle104e**************************************************************
-
-
-Sub Battle104e
-
-//scaling
-If Form1.Init.Value = 1 Then 
-Call scaling
-End If
-
-//slide up 
-dm.MoveTo 529, 295
-Delay 200
-For 9
-dm.WheelUp
-Delay 500
-Next
-
-Call deployE(260, 210)
-
-Call deploy(410, 480)
-
-Call StartCombat
-
-Call supply(260, 210)
-
-Call Plan3(260, 210, 400, 150, 490, 210)
-
-Call waiting("行动结束104e1")
-
-Call Plan4(490, 210, 400, 150, 260, 210, 170, 250)
-
-Call waitingThenEndRound("行动结束104e2")
-
-Delay 24000
-
-Call waiting("行动结束104e3")
-
-For 5
-dm.MoveTo 529, 259
-dm.LeftClick 
-Delay 300
-Next
-Delay 3000
-
-Call waiting("回合开始02")
-
-Delay 6000
-
-Call exchange(170, 250, 260, 210)
-
-Call retreat(260, 210)
-
-Call QuitCombat
-
-End Sub
-
-//***********************************************************************Preparation***************************************************************************
-//***********************************************************************Preparation***************************************************************************
-//***********************************************************************Preparation***************************************************************************
+//************************************************************EchelonExchangeDeploy****************************************************************
 
 Sub EchelonExchangeDeploy(x, y, m, n)
 
@@ -1211,8 +582,6 @@ Else
 Call deploy(m, n)
 Call deploy(x, y)
 End If
-
-
 
 End Sub
 
@@ -1349,9 +718,7 @@ Loop While i = 0
 
 End Sub
 
-
 //****************************************************************PlanMode**************************************************************
-
 
 Sub PlanMode(arr)
 
@@ -1406,73 +773,13 @@ Loop While i = 0
 
 End Sub
 
-Sub PlanFor02firstRound
-
-Call selectPlan
-
-//select echelon
-dm.MoveTo 510, 280
-dm.LeftClick
-Delay 100
-//select point
-dm.MoveTo 350, 180
-dm.LeftClick
-Delay 100
-
-//slide up map
-dm.MoveTo 800, 350
-Delay 200
-For 12
-dm.WheelUp
-Delay 300
-Next
-
-//select point
-dm.MoveTo 370, 565
-dm.LeftClick
-Delay 100
-dm.MoveTo 530, 380
-dm.LeftClick
-Delay 100
-dm.MoveTo 380, 280
-dm.LeftClick
-Delay 100
-
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\计划021.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-Else 
-For 3
-dm.WheelUp
-Delay 300
-Next
-//select point
-dm.MoveTo 370, 565
-dm.LeftClick
-Delay 100
-dm.MoveTo 530, 380
-dm.LeftClick
-Delay 100
-dm.MoveTo 380, 280
-dm.LeftClick
-Delay 100
-End If
-Delay 500
-Loop While i = 0
-
-Call executePlan
-
-End Sub
-
 //****************************************************************supply**************************************************************
 
 Sub supply(x,y)
  
 Call dmRndClick(x, y)
 dm.LeftClick
-Delay (500 + Rnd * 500)
+Delay (1000 + Rnd * 500)
 Do
 i = 0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
@@ -1507,6 +814,7 @@ End Sub
 Sub retreat(x, y)
 
 Call dmRndClick(x, y)
+Delay (1000 + Rnd * 500)
 Do
 i = 0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
@@ -1548,6 +856,7 @@ End Sub
 Sub deploy(x, y)
 
 Call dmRndClick(x, y)
+Delay (1000 + Rnd * 500)
 Do
 i = 0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
@@ -1572,63 +881,6 @@ i = 1
 End If
 Delay (500 + Rnd * 500)
 Loop While i = 0
-
-Call confirmBattleField
-
-End Sub
-
-Sub deployE(x, y)
-
-dm.MoveTo x, y
-dm.LeftClick
-Delay 500
-If Form1.Init.Value = 1 Then 
-Form1.Init.Value = 0
-//select airport for the 1st time
-dm.MoveTo 475, 75
-dm.LeftClick
-Delay 500
-End If
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-End If
-Delay 500
-Loop While i=0
-dm.MoveTo 930, 500
-dm.LeftClick
-Delay 1000
-
-End Sub
-
-Sub deployE3(x, y)
-
-dm.MoveTo x, y
-dm.LeftClick 
-Delay 1000
-Do
-i = 0
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\队伍编成.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-i = 1
-Else 
-dm.LeftClick 
-Delay 1000
-End If
-Delay 500
-Loop While i = 0
-// select echelon 3
-dm.MoveTo 50, 250
-dm.LeftClick 
-Delay 500
-dm.MoveTo 50, 250
-dm.LeftClick 
-Delay 500
-dm.MoveTo 930, 500
-dm.LeftClick 
-Delay 1000
 
 Call confirmBattleField
 
@@ -1788,7 +1040,7 @@ End Sub
 //****************************************************************scaling**************************************************************
 
 Sub scaling
-dm.MoveTo Int(500+Rnd*29), Int(270+Rnd*25)
+dm.MoveTo Int(500 + Rnd * 29), Int(270 + Rnd * 25)
 dm.KeyDownChar "ctrl"
 Call WheelDown(9)
 dm.KeyUpChar "ctrl"	
@@ -1797,14 +1049,14 @@ End Sub
 //****************************************************************slideUp**************************************************************
 
 Sub slideUp(times)
-dm.MoveTo Int(500+Rnd*29), Int(270+Rnd*25)
+dm.MoveTo Int(500 + Rnd * 29), Int(270 + Rnd * 25)
 Call WheelUp(times)
 End Sub
 
 //****************************************************************slideDown**************************************************************
 
 Sub slideDown(times)
-dm.MoveTo Int(500+Rnd*29), Int(270+Rnd*25)
+dm.MoveTo Int(500 + Rnd * 29), Int(270 + Rnd * 25)
 Call WheelDown(times)
 End Sub
 
@@ -1892,34 +1144,6 @@ Next
 
 End Sub
 
-Sub adjustingFor115
-
-For 5
-
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\暂停.bmp","020202",1,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-Delay 5000
-dm.MoveTo 420, 420
-dm.LeftClick
-Delay 500
-dm.MoveTo 90, 135
-dm.LeftClick
-Delay 6000
-dm.MoveTo 240, 420
-dm.LeftClick
-Delay 500
-dm.MoveTo 90, 135
-dm.LeftClick
-Delay 6000
-End If
-Delay 1000
-
-Call confirmBattleField
-
-Next
-
-End Sub
-
 //****************************************************************settlement**************************************************************
 
 Sub settlement(PicName)
@@ -1953,22 +1177,11 @@ End Sub
 
 Sub Retire
 
-If Form1.Retire.Value = 1 Then 
-
-//factory
-Call dmCusRndClick(855, 240, 988, 303)
-Delay Int(1500 + 500 * Rnd)
 Do
 i=0
 dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\工厂.bmp","020202",0.9,0,intX,intY)
 If intX > 0 And intY > 0 Then 
 i=1
-Else 
-dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
-If intX > 0 And intY > 0 Then 
-Call dmCusRndClick(855, 240, 988, 303)
-Delay Int(1500 + 500 * Rnd)
-End If
 End If
 Delay Int(500 + 500 * Rnd)
 Loop While i=0
@@ -1976,7 +1189,8 @@ Loop While i=0
 //retire
 Call dmCusRndClick(13, 330, 128, 371)
 
-If Form1.Mission81N.Value = 1 Then 
+If Form1.Difficulty.ListIndex = 2 Then 
+
 //*****************************Select Weapon*************************
 Call dmCusRndClick(383, 128, 492, 184)
 //*******************************Select T-Dolls****************************
@@ -1998,7 +1212,7 @@ Call dmCusRndClick(880, 478, 990, 512)
 
 Goto backbase
 
-If Form1.Mission81N.Value = 1 Then 
+If Form1.Difficulty.ListIndex = 2 Then 
 //*****************************Select Weapon*************************
 Call dmCusRndClick(383, 128, 492, 184)
 //*******************************Select T-Dolls****************************
@@ -2056,8 +1270,6 @@ Delay 3000
 Rem backbase
 
 Call ReturnToBase
-
-End If
 
 End Sub
 
@@ -2173,7 +1385,25 @@ End Sub
 //*************************************************************Domitory*************************************************************
 
 Sub Domitory
-	
+
+//switch toggle
+MyHour = Hour(Now)
+
+If MyHour = 2 or MyHour = 10 or MyHour = 16 Then 
+
+CollectBattery = False
+
+ElseIf MyHour = 7 or MyHour = 15 or MyHour = 23 Then
+
+Analysis = False
+
+ElseIf MyHour = 7 Or MyHour = 9 Or MyHour = 15 Or MyHour = 21 Or MyHour = 23 Then
+
+SimulateBattle = False
+
+End If
+
+
 If CollectBattery = False And MyHour = 3 Then 
 Call FetchBattery
 End If
@@ -2400,7 +1630,7 @@ MyWeekDay = Weekday(Date)
 If MyWeekDay = 4 Then 
 If MyHour = 8 or MyHour = 10 or MyHour = 16 or MyHour = 22 Then 
 Call HighAI
-Form1.Init.Value = 0
+Form1.Init.Value = 1
 End If
 End If
 
@@ -2410,7 +1640,7 @@ If MyHour = 8 or MyHour = 16 Then
 For 2
 Call MiddleAI
 Next
-Form1.Init.Value = 0
+Form1.Init.Value = 1
 End If
 End If
 
@@ -2419,7 +1649,7 @@ If MyHour = 0 or MyHour = 8 or MyHour = 16 or MyHour = 22 Then
 For 2
 Call MiddleSkill	
 Next
-Form1.Init.Value = 0
+Form1.Init.Value = 1
 End If
 End If
 
@@ -2747,3 +1977,247 @@ Call ReturnToBase
 CompleteTimes = CompleteTimes + 1
 
 End Sub
+
+//********************************************************************Assistant Thread*****************************************************************************
+//********************************************************************Assistant Thread*****************************************************************************
+//********************************************************************Assistant Thread*****************************************************************************
+
+Sub Assistant
+
+Do
+
+//CrashedReloading
+Call CrashedReloading
+Delay 300
+
+//StuckedReload
+If Form1.Peace.Value <> 1 Then 
+Call StuckedReload
+Delay 300
+End If
+
+//logistics
+Call logistics
+Delay 300
+
+Loop
+
+End Sub
+
+
+
+//************************************************************CrashedReloading************************************************************
+//************************************************************CrashedReloading************************************************************
+//************************************************************CrashedReloading************************************************************
+
+Sub CrashedReloading
+
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\少前.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+StopThread (ID1)
+Delay 5000
+dm.MoveTo 160, 130
+dm.LeftClick
+
+Form1.Init.Value = 1
+Resupply = True
+Arrangement =True
+
+Delay 18000
+Do
+i=0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\点击屏幕开始.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+Else 
+dm.MoveTo 160, 130
+dm.LeftClick
+Delay 18000
+End If
+Loop While i = 0
+
+Call dmRndClick(540, 380)
+
+Delay 9000
+
+Do
+i = 0
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\基地.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+i = 1
+
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\更新.bmp","020202",0.9,0,intX,intY)
+ElseIf intX > 0 And intY > 0 Then
+Call dmRndClick(intX, intY)
+dm.MoveTo intX, intY
+Delay 30000
+
+Else 
+Call dmRndClick(540, 380)
+Delay 3000
+End If
+Loop While i = 0
+
+ID1 = BeginThread(main)
+
+End If
+End Sub
+
+//************************************************************StuckedReload************************************************************
+//************************************************************StuckedReload************************************************************
+//************************************************************StuckedReload************************************************************
+
+Sub StuckedReload
+
+If counter = 0 Then 
+temp = CompleteTimes
+End If
+
+counter = counter + 1
+
+If counter = 450 Then 
+counter = 0
+
+If temp = CompleteTimes Then 
+
+If Form1.StuckRestart.Value=1 Then 
+MoveTo 570, 50
+LeftClick 1
+Else
+MessageBox "stucked!"
+End If
+
+End If
+End If
+
+End Sub
+
+//************************************************************logistics************************************************************
+//************************************************************logistics************************************************************
+//************************************************************logistics************************************************************
+
+Sub logistics
+
+//logistics support return
+dm_ret = dm.FindPic( 0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\后勤回归.bmp","020202", 0.9,0, intX, intY)
+If intX > 0 And intY > 0 Then 
+Call dmCusRndClick(126, 136, 677, 499)
+End If
+Delay 300
+
+//logistics support resend
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\再派遣确定.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+Call dmCusRndClick(586, 392, 695, 422)
+End If
+Delay 300
+
+//close achievement window
+dm_ret = dm.FindPic( 0,0,1366,768,"D:\按键精灵\按键精灵2014\screen\成就.bmp","020202",0.9,0,intX,intY)
+If intX > 0 And intY > 0 Then 
+Call dmCusRndClick(497, 409, 611, 445)
+End If
+Delay 300
+
+//full storehouse
+dm_ret = dm.FindPic(0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\满仓.bmp", "020202", 0.9, 0, intX, intY)
+If intX > 0 And intY > 0 Then 
+
+If Form1.Retire.Value <> 1 Then 
+MessageBox "醒醒，你老婆满了"
+EndScript
+
+Else
+PauseThread (ID1)
+Call dmRndClick(640, 400)
+Do
+i = 0
+dm_ret = dm.FindPic(0, 0, 1366, 768,"D:\按键精灵\按键精灵2014\screen\满仓.bmp", "020202", 0.9, 0, intX, intY)
+If intX > 0 And intY > 0 Then 
+Call dmRndClick(640, 400)
+Else 
+i = 1
+End If
+Delay Int(500 + 500 * Rnd)
+Loop While i = 0
+Call Retire
+Call EnterBattleField
+ContinueThread (ID1)
+End If
+End If
+Delay 300
+
+End Sub
+
+
+//********************************************************************Components********************************************************************
+//********************************************************************Components********************************************************************
+//********************************************************************Components********************************************************************
+
+//*******************Use DM plugin to bind window*******************
+
+Sub BoundWindow
+
+Do
+i = 0
+dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
+If dm_ret = 1 Then 	
+i = 1
+Delay 1000
+Else 
+dm_ret = dm.BindWindow(hwnd, "dx2", "dx", "dx", 0)
+Delay 1000
+End If
+Delay 1000
+Loop While i = 0
+
+End Sub
+
+//******************* DM Click*******************
+
+Sub dmCusRndClick(x, y, m, n)
+
+dm.MoveTo Int (Rnd * (m-x) + x), Int (Rnd * (n-y) + y)
+dm.LeftClick
+Delay Int(Rnd * 1000 + 500)
+
+End Sub
+
+Sub dmRndClick(x, y)
+
+dm.MoveTo Int (Rnd * 30 + x), Int (Rnd * 30 + y)
+dm.LeftClick
+Delay Int(Rnd * 100 + 200)
+
+End Sub
+
+Sub dmCusRndMove(x, y, m, n)
+
+dm.MoveTo Int (Rnd * (m-x) + x), Int (Rnd * (n-y) + y)
+Delay Int(Rnd * 100 + 100)
+
+End Sub
+
+Sub dmRndMove(x, y)
+
+dm.MoveTo Int (Rnd * 30 + x), Int (Rnd * 30 + y)
+Delay Int(Rnd * 100 + 100)
+
+End Sub
+
+Sub WheelUp(times)
+
+For times
+dm.WheelUp
+Delay (250 + Rnd * 50)
+Next
+End Sub
+
+Sub WheelDown(times)
+For times
+dm.WheelDown 
+Delay (250 + Rnd * 50)
+Next
+End Sub
+
+
